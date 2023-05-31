@@ -2,7 +2,7 @@ name: Run script on each mainnet chain
 
 on:
   schedule:
-    - cron:  '10 * * * *'
+    - cron:  '31 * * * *'
 
 jobs:
   run-script:
@@ -15,7 +15,7 @@ jobs:
     - name: Fetch list of mainnet chains
       id: fetch-chains
       run: |
-        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[].name' | grep -vE '^\.|^_|README.md|testnets')
+        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir") | .name')
         echo "::set-output name=chains::$chains"
 
     - name: Set script permissions
@@ -24,8 +24,19 @@ jobs:
     - name: Run script on each mainnet chain
       run: |
         for chain in ${{ steps.fetch-chains.outputs.chains }}; do
-          mkdir -p $chain
-          ./get_ibc_info.sh https://rest.cosmos.directory/$chain > $chain/paths_open.csv
+          if [[ ! "${chain:0:1}" = "_" ]] && [[ ! "${chain:0:1}" = "." ]] && [[ ! "${chain:0:1}" = *"testnet"* ]] ; then
+            chain_json=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents/$chain/chain.json)
+            chain_status=""
+            if [[ $(echo $chain_json | jq -r '.encoding') == "base64" ]]; then
+              chain_status=$(echo $chain_json | jq -r '.content' | base64 --decode | jq -r '.status')
+            else
+              chain_status=$(echo $chain_json | jq -r '.content')
+            fi
+            if [[ "$chain_status" = "live" ]] ; then
+              mkdir -p testnets/$chain
+              ./get_ibc_info.sh https://rest.cosmos.directory/$chain > testnets/$chain/paths_open.csv
+            fi
+          fi
         done
 
     - name: Commit and push changes
