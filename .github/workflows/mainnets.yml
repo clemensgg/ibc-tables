@@ -2,7 +2,7 @@ name: Run script on each mainnet chain
 
 on:
   schedule:
-    - cron:  '50 * * * *'
+    - cron:  '10 * * * *'
 
 jobs:
   run-script:
@@ -17,6 +17,9 @@ jobs:
       run: |
         chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[].name' | grep -vE '^\.|^_|README.md|testnets')
         echo "::set-output name=chains::$chains"
+
+    - name: Set script permissions
+      run: chmod +x get_ibc_info.sh
     
     - name: Run script on each mainnet chain
       run: |
