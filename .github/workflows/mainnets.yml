@@ -1,0 +1,34 @@
+name: Run script on each mainnet chain
+
+on:
+  schedule:
+    - cron:  '50 * * * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout ibc-tables repo
+      uses: actions/checkout@v2
+
+    - name: Fetch list of mainnet chains
+      id: fetch-chains
+      run: |
+        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[].name' | grep -vE '^\.|^_|README.md|testnets')
+        echo "::set-output name=chains::$chains"
+    
+    - name: Run script on each mainnet chain
+      run: |
+        for chain in ${{ steps.fetch-chains.outputs.chains }}; do
+          mkdir -p $chain
+          ./get_ibc_info.sh https://rest.cosmos.directory/$chain > $chain/paths_open.csv
+        done
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update paths_open.csv for each mainnet chain"
+        git push
