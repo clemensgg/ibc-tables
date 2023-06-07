@@ -23,21 +23,27 @@ jobs:
     
     - name: Run script on each mainnet chain
       run: |
+        start_time=$(date +%s)
         for chain in ${{ steps.fetch-chains.outputs.chains }}; do
           if [[ ! "${chain:0:1}" = "_" ]] && [[ ! "${chain:0:1}" = "." ]] && [[ ! "${chain:0:1}" = *"testnet"* ]] ; then
-            chain_json=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents/$chain/chain.json)
-            chain_status=""
-            if [[ $(echo $chain_json | jq -r '.encoding') == "base64" ]]; then
-              chain_status=$(echo $chain_json | jq -r '.content' | base64 --decode | jq -r '.status')
-            else
-              chain_status=$(echo $chain_json | jq -r '.content')
-            fi
-            if [[ "$chain_status" = "live" ]] ; then
-              mkdir -p testnets/$chain
-              ./get_ibc_info.sh https://rest.cosmos.directory/$chain > testnets/$chain/paths_open.csv
+            echo $chain
+            mkdir $chain 2> /dev/null || true
+            output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
+            if [ $? -eq 0 ]; then
+              echo "$output" > $chain/paths_open.csv.tmp
+              if [ ! -f $chain/paths_open.csv ] || [ $(wc -l < $chain/paths_open.csv.tmp) -gt $(wc -l < $chain/paths_open.csv) ]; then
+                rm $chain/paths_open.csv 2> /dev/null || true
+                mv $chain/paths_open.csv.tmp $chain/paths_open.csv
+                echo "++ updated"
+              else
+                rm $chain/paths_open.csv.tmp
+                echo "-- not updated"
+              fi
             fi
           fi
         done
+        end_time=$(date +%s)
+        echo "Total runtime: $((end_time - start_time))s"
 
     - name: Commit and push changes
       run: |
