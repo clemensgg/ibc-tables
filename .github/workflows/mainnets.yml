@@ -21,6 +21,7 @@ jobs:
       run: |
         chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir") | .name')
         echo "::set-output name=chains::$chains"
+        echo "Fetched chains: $chains"
 
     - name: Set script permissions
       run: chmod +x get_ibc_info.sh
@@ -28,11 +29,14 @@ jobs:
     - name: Run script on each mainnet chain
       run: |
         start_time=$(date +%s)
+        echo "Start time: $start_time"
         for chain in ${{ steps.fetch-chains.outputs.chains }}; do
+          echo "Processing chain: $chain"
           if [[ ! "${chain:0:1}" = "_" ]] && [[ ! "${chain:0:1}" = "." ]] && [[ ! "${chain:0:1}" = *"testnet"* ]] ; then
-            echo $chain
+            echo "Chain $chain passed conditions"
             mkdir $chain 2> /dev/null || true
             output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
+            echo "Output: $output"
             if [ $? -eq 0 ]; then
               echo "$output" > $chain/paths_open.csv.tmp
               if [ ! -f $chain/paths_open.csv ] || [ $(wc -l < $chain/paths_open.csv.tmp) -gt $(wc -l < $chain/paths_open.csv) ]; then
@@ -43,10 +47,13 @@ jobs:
                 rm $chain/paths_open.csv.tmp
                 echo "-- not updated"
               fi
+            else
+              echo "Script failed for chain: $chain"
             fi
           fi
         done
         end_time=$(date +%s)
+        echo "End time: $end_time"
         echo "Total runtime: $((end_time - start_time))s"
 
     - name: Commit and push changes
