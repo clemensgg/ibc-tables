@@ -19,19 +19,18 @@ jobs:
     - name: Fetch list of mainnet chains
       id: fetch-chains
       run: |
-        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir") | .name')
-        echo "chains=$chains" >> $GITHUB_ENV
-        echo "Fetched chains:"
-        echo "$chains"
+        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir") | .name' | sed 's/^/chain_/')
+        for chain in $chains; do
+          echo "$chain"
+          echo "${chain#chain_}=${chain#chain_}" >> $GITHUB_ENV
+        done
 
     - name: Set script permissions
       run: chmod +x get_ibc_info.sh
     
     - name: Run script on each mainnet chain
       run: |
-        start_time=$(date +%s)
-        echo "Start time: $start_time"
-        for chain in ${{ steps.fetch-chains.outputs.chains }}; do
+        for chain in ${!chain_*}; do
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
           output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
@@ -50,9 +49,6 @@ jobs:
             echo "Script failed for chain: $chain"
           fi
         done
-        end_time=$(date +%s)
-        echo "End time: $end_time"
-        echo "Total runtime: $((end_time - start_time))s"
 
         - name: Commit and push changes
         run: |
