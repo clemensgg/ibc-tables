@@ -1,8 +1,11 @@
 name: Run script on each mainnet chain
 
 on:
+  push:
+    paths:
+      - '.github/workflows/mainnets.yml'
   schedule:
-    - cron:  '35 * * * *'
+    - cron:  '35 1 * * *'
 
 jobs:
   run-script:
