@@ -19,7 +19,7 @@ jobs:
     - name: Fetch list of mainnet chains
       id: fetch-chains
       run: |
-        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir") | .name')
+        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and .name | startswith("_",".","testnets") | not) | .name')
         echo "::set-output name=chains::$chains"
         echo "Fetched chains: $chains"
 
@@ -32,24 +32,21 @@ jobs:
         echo "Start time: $start_time"
         for chain in ${{ steps.fetch-chains.outputs.chains }}; do
           echo "Processing chain: $chain"
-          if [[ ! "${chain:0:1}" = "_" ]] && [[ ! "${chain:0:1}" = "." ]] && [[ ! "${chain:0:1}" = *"testnet"* ]] ; then
-            echo "Chain $chain passed conditions"
-            mkdir $chain 2> /dev/null || true
-            output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
-            echo "Output: $output"
-            if [ $? -eq 0 ]; then
-              echo "$output" > $chain/paths_open.csv.tmp
-              if [ ! -f $chain/paths_open.csv ] || [ $(wc -l < $chain/paths_open.csv.tmp) -gt $(wc -l < $chain/paths_open.csv) ]; then
-                rm $chain/paths_open.csv 2> /dev/null || true
-                mv $chain/paths_open.csv.tmp $chain/paths_open.csv
-                echo "++ updated"
-              else
-                rm $chain/paths_open.csv.tmp
-                echo "-- not updated"
-              fi
+          mkdir $chain 2> /dev/null || true
+          output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
+          echo "Output: $output"
+          if [ $? -eq 0 ]; then
+            echo "$output" > $chain/paths_open.csv.tmp
+            if [ ! -f $chain/paths_open.csv ] || [ $(wc -l < $chain/paths_open.csv.tmp) -gt $(wc -l < $chain/paths_open.csv) ]; then
+              rm $chain/paths_open.csv 2> /dev/null || true
+              mv $chain/paths_open.csv.tmp $chain/paths_open.csv
+              echo "++ updated"
             else
-              echo "Script failed for chain: $chain"
+              rm $chain/paths_open.csv.tmp
+              echo "-- not updated"
             fi
+          else
+            echo "Script failed for chain: $chain"
           fi
         done
         end_time=$(date +%s)
