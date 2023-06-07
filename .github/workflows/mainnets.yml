@@ -20,19 +20,15 @@ jobs:
       id: fetch-chains
       run: |
         chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and (.name | startswith("_") | not) and (.name | startswith(".") | not) and (.name | startswith("testnets") | not)) | .name')
-
-        for chain in $chains; do
-          echo "$chain"
-          echo "${chain#chain_}=${chain#chain_}" >> $GITHUB_ENV
-        done
+        echo "$chains"
+        echo "chains=$chains" >> $GITHUB_ENV
 
     - name: Set script permissions
       run: chmod +x get_ibc_info.sh
     
     - name: Run script on each mainnet chain
       run: |
-        for chain in ${!chain_*}; do
-          chain=${chain#chain_}
+        for chain in ${{ env.chains }}; do
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
           output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
