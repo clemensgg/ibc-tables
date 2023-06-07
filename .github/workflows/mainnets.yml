@@ -21,14 +21,14 @@ jobs:
       run: |
         chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and (.name | startswith("_") | not) and (.name | startswith(".") | not) and (.name | startswith("testnets") | not)) | .name')
         echo "$chains"
-        echo "chains=$chains" >> $GITHUB_ENV
+        echo "CHAINS=$chains" >> $GITHUB_ENV
 
     - name: Set script permissions
       run: chmod +x get_ibc_info.sh
     
     - name: Run script on each mainnet chain
       run: |
-        for chain in ${{ env.chains }}; do
+        for chain in ${{ env.CHAINS }}; do
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
           output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
