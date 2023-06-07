@@ -2,7 +2,7 @@ name: Run script on each mainnet chain
 
 on:
   schedule:
-    - cron:  '1 13 * * *'
+    - cron:  '50 * * * *'
 
 jobs:
   run-script:
