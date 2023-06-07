@@ -19,9 +19,10 @@ jobs:
     - name: Fetch list of mainnet chains
       id: fetch-chains
       run: |
-        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and (.name | startswith("_") | not) and (.name | startswith(".") | not) and (.name | startswith("testnets") | not)) | .name')
-        echo "::set-output name=chains::$chains"
-        echo "Fetched chains: $chains"
+        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir") | .name')
+        echo "chains=$chains" >> $GITHUB_ENV
+        echo "Fetched chains:"
+        echo "$chains"
 
     - name: Set script permissions
       run: chmod +x get_ibc_info.sh
@@ -53,12 +54,11 @@ jobs:
         echo "End time: $end_time"
         echo "Total runtime: $((end_time - start_time))s"
 
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "auto update"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "auto update" || exit 0 
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
