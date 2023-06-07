@@ -19,7 +19,7 @@ jobs:
     - name: Fetch list of mainnet chains
       id: fetch-chains
       run: |
-        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir") | .name' | sed 's/^/chain_/')
+        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and .name | startswith("_",".","testnets") | not) | .name')
         for chain in $chains; do
           echo "$chain"
           echo "${chain#chain_}=${chain#chain_}" >> $GITHUB_ENV
@@ -31,6 +31,7 @@ jobs:
     - name: Run script on each mainnet chain
       run: |
         for chain in ${!chain_*}; do
+          chain=${chain#chain_}
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
           output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
