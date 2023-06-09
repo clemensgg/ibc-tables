@@ -16,19 +16,14 @@ jobs:
     - name: Checkout ibc-tables repo
       uses: actions/checkout@v2
 
-    - name: Fetch list of mainnet chains
-      id: fetch-chains
-      run: |
-        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and (.name | startswith("_") | not) and (.name | startswith(".") | not) and (.name | startswith("testnets") | not)) | .name')
-        echo "$chains"
-        echo "CHAINS=$chains" >> $GITHUB_ENV
-
     - name: Set script permissions
       run: chmod +x get_ibc_info.sh
     
-    - name: Run script on each mainnet chain
+    - name: Run script
       run: |
-        for chain in ${{ env.CHAINS }}; do
+        chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and (.name | startswith("_") | not) and (.name | startswith(".") | not) and (.name | startswith("testnets") | not)) | .name' | xargs)
+        echo "$chains"
+        for chain in $chains; do
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
           output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
