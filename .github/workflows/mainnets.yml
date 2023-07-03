@@ -26,7 +26,7 @@ jobs:
         for chain in $chains; do
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
-          output=$(./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
+          output=$(timeout 600 ./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
           echo "Output: $output"
           if [ $? -eq 0 ]; then
             echo "$output" > $chain/paths_open.csv.tmp
@@ -38,16 +38,13 @@ jobs:
               rm $chain/paths_open.csv.tmp
               echo "-- not updated"
             fi
+
+            git add $chain/paths_open.csv
+            git commit -m "auto update for $chain" || exit 0
+            git push origin HEAD:main
           else
             echo "Script failed for chain: $chain"
           fi
         done
-
-        - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "auto update" || exit 0 
-          git push origin HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
