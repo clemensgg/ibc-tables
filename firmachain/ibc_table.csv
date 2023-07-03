@@ -1,0 +1,2 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+colosseum-1, 07-tendermint-0, connection-0, channel-0, transfer, gravity-bridge-3, 07-tendermint-34, connection-45, channel-19, transfer
