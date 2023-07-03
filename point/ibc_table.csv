@@ -1,0 +1,5 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+point_10687-1, 07-tendermint-1, connection-0, channel-0, transfer, cosmoshub-4, 07-tendermint-926, connection-648, channel-404, transfer
+point_10687-1, 07-tendermint-2, connection-1, channel-1, transfer, thanos-1, 07-tendermint-1, connection-1, channel-1, transfer
+point_10687-1, 07-tendermint-2, connection-3, channel-2, transfer, thanos-1, 07-tendermint-1, connection-2, channel-2, transfer
+point_10687-1, 07-tendermint-2, connection-4, channel-3, transfer, thanos-1, 07-tendermint-1, connection-3, channel-3, transfer
