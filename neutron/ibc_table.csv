@@ -1,0 +1,14 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+neutron-1, 07-tendermint-0, connection-0, channel-0, consumer, cosmoshub-4, 07-tendermint-1119, connection-809, channel-568, provider
+neutron-1, 07-tendermint-0, connection-0, channel-1, transfer, cosmoshub-4, 07-tendermint-1119, connection-809, channel-569, transfer
+neutron-1, 07-tendermint-19, connection-18, channel-10, transfer, osmosis-1, 07-tendermint-2823, connection-2338, channel-874, transfer
+neutron-1, 07-tendermint-0, connection-19, channel-13, transfer, cosmoshub-4, 07-tendermint-1119, connection-832, channel-608, transfer
+neutron-1, 07-tendermint-20, connection-20, channel-15, transfer, ununifi-beta-v1, 07-tendermint-4, connection-3, channel-1, transfer
+neutron-1, 07-tendermint-21, connection-21, channel-16, transfer, mars-1, 07-tendermint-64, connection-50, channel-37, transfer
+neutron-1, 07-tendermint-1, connection-1, channel-2, transfer, axelar-dojo-1, 07-tendermint-123, connection-110, channel-78, transfer
+neutron-1, 07-tendermint-2, connection-2, channel-3, transfer, kaiyo-1, 07-tendermint-112, connection-82, channel-75, transfer
+neutron-1, 07-tendermint-11, connection-8, channel-4, transfer, migaloo-1, 07-tendermint-55, connection-43, channel-27, transfer
+neutron-1, 07-tendermint-12, connection-9, channel-5, transfer, phoenix-1, 07-tendermint-274, connection-192, channel-167, wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce
+neutron-1, 07-tendermint-18, connection-15, channel-8, transfer, stride-1, 07-tendermint-125, connection-113, channel-123, transfer
+neutron-1, 07-tendermint-12, connection-9, channel-6, wasm.neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07, phoenix-1, 07-tendermint-274, connection-192, channel-168, wasm.terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660
+neutron-1, 07-tendermint-13, connection-11, channel-7, wasm.neutron1lxansfc8vkujy997e3xksd3ugsppv6a9jt32pjtgaxr0zkcnkznq67z3ax, laozi-mainnet, 07-tendermint-158, connection-138, channel-156, oracle
