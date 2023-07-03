@@ -1,0 +1,4 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+dyson-mainnet-01, 07-tendermint-0, connection-1, channel-0, transfer, osmosis-1, 07-tendermint-2282, connection-1787, channel-466, transfer
+dyson-mainnet-01, 07-tendermint-2, connection-5, channel-1, transfer, osmosis-1, 07-tendermint-2407, connection-1895, channel-770, transfer
+dyson-mainnet-01, 07-tendermint-2, connection-5, channel-2, transfer, osmosis-1, 07-tendermint-2407, connection-1895, channel-526, transfer
