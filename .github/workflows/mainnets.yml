@@ -23,7 +23,7 @@ jobs:
         for chain in $chains; do
           echo "Processing chain: $chain"
           mkdir -p $chain 2> /dev/null || true
-          if output=$(timeout 600 ./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null); then
+          if output=$(timeout 1200 ./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null); then
             echo "$output"
             echo "$output" > $chain/ibc_table.csv.tmp
             if [ ! -f $chain/ibc_table.csv ] || [ $(wc -l < $chain/ibc_table.csv.tmp) -gt $(wc -l < $chain/ibc_table.csv) ]; then
