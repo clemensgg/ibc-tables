@@ -18,7 +18,7 @@ jobs:
 
     - name: Set script permissions
       run: chmod +x get_ibc_info.sh
-    
+
     - name: Run script
       run: |
         chains=$(curl -s https://api.github.com/repos/cosmos/chain-registry/contents | jq -r '.[] | select(.type == "dir" and (.name | startswith("_") | not) and (.name | startswith(".") | not) and (.name | startswith("testnets") | not)) | .name' | xargs)
@@ -26,25 +26,10 @@ jobs:
         for chain in $chains; do
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
-          output=$(timeout 600 ./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
-          echo "Output: $output"
-          if [ $? -eq 0 ]; then
-            echo "$output" > $chain/paths_open.csv.tmp
-            if [ ! -f $chain/paths_open.csv ] || [ $(wc -l < $chain/paths_open.csv.tmp) -gt $(wc -l < $chain/paths_open.csv) ]; then
-              rm $chain/paths_open.csv 2> /dev/null || true
-              mv $chain/paths_open.csv.tmp $chain/paths_open.csv
-              echo "++ updated"
-            else
-              rm $chain/paths_open.csv.tmp
-              echo "-- not updated"
-            fi
-
-            git add $chain/paths_open.csv
-            git commit -m "auto update for $chain" || exit 0
-            git push origin HEAD:main
-          else
-            echo "Script failed for chain: $chain"
-          fi
+          timeout 600 ./get_ibc_info.sh https://rest.cosmos.directory/$chain > $chain/paths_open.csv.tmp 2> /dev/null || continue
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet && git diff --staged --quiet || (git add . ; git commit -m "auto update for $chain"; git push origin HEAD:main)
         done
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
