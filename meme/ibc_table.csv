@@ -1,0 +1,8 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+meme-1, 07-tendermint-0, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-1931, connection-1502, channel-238, transfer
+meme-1, 07-tendermint-1, connection-2, channel-2, transfer, osmosis-1, 07-tendermint-1981, connection-1538, channel-252, transfer
+meme-1, 07-tendermint-0, connection-8, channel-3, transfer, osmosis-1, 07-tendermint-1931, connection-1586, channel-271, transfer
+meme-1, 07-tendermint-11, connection-11, channel-5, transfer, sifchain-1, 07-tendermint-183, connection-107, channel-73, transfer
+meme-1, 07-tendermint-20, connection-12, channel-6, transfer, gravity-bridge-3, 07-tendermint-154, connection-149, channel-87, transfer
+meme-1, 07-tendermint-21, connection-14, channel-7, transfer, kaiyo-1, 07-tendermint-34, connection-29, channel-29, transfer
+meme-1, 07-tendermint-24, connection-17, channel-8, transfer, acre_9052-1, 07-tendermint-46, connection-35, channel-22, transfer

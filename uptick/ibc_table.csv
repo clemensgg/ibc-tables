@@ -1,0 +1,4 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+uptick_117-1, 07-tendermint-2, connection-0, channel-0, transfer, irishub-1, 07-tendermint-89, connection-71, channel-38, transfer
+uptick_117-1, 07-tendermint-3, connection-1, channel-1, transfer, cosmoshub-4, 07-tendermint-1115, connection-788, channel-535, transfer
+uptick_117-1, 07-tendermint-8, connection-2, channel-2, transfer, irishub-1, 07-tendermint-93, connection-72, channel-39, transfer

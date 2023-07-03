@@ -1,0 +1,2 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+ShareRing-VoyagerNet, 07-tendermint-1, connection-5, channel-0, transfer, osmosis-1, 07-tendermint-2680, connection-2182, channel-647, transfer

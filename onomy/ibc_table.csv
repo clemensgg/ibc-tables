@@ -1,0 +1,7 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+onomy-mainnet-1, 07-tendermint-0, connection-1, channel-0, transfer, osmosis-1, 07-tendermint-2405, connection-1892, channel-525, transfer
+onomy-mainnet-1, 07-tendermint-1, connection-2, channel-1, transfer, cosmoshub-4, 07-tendermint-1023, connection-714, channel-492, transfer
+onomy-mainnet-1, 07-tendermint-2, connection-3, channel-2, transfer, exchain-66, 07-tendermint-114, connection-71, channel-43, transfer
+onomy-mainnet-1, 07-tendermint-3, connection-4, channel-3, transfer, injective-1, 07-tendermint-141, connection-114, channel-96, transfer
+onomy-mainnet-1, 07-tendermint-4, connection-5, channel-4, transfer, exchain-66, 07-tendermint-118, connection-80, channel-48, transfer
+onomy-mainnet-1, 07-tendermint-4, connection-6, channel-5, transfer, exchain-66, 07-tendermint-118, connection-82, channel-50, transfer

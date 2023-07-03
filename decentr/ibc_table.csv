@@ -1,0 +1,7 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+mainnet-3, 07-tendermint-6, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-1798, connection-1403, channel-181, transfer
+mainnet-3, 07-tendermint-11, connection-3, channel-2, transfer, gravity-bridge-3, 07-tendermint-95, connection-98, channel-58, transfer
+mainnet-3, 07-tendermint-12, connection-4, channel-3, transfer, gravity-bridge-3, 07-tendermint-96, connection-99, channel-59, transfer
+mainnet-3, 07-tendermint-13, connection-5, channel-4, transfer, sentinelhub-2, 07-tendermint-103, connection-81, channel-55, transfer
+mainnet-3, 07-tendermint-19, connection-6, channel-5, transfer, phoenix-1, 07-tendermint-119, connection-113, channel-99, transfer
+mainnet-3, 07-tendermint-20, connection-7, channel-6, transfer, carbon-1, 07-tendermint-52, connection-29, channel-27, transfer

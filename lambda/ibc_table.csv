@@ -1,0 +1,4 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+lambda_92000-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2170, connection-1689, channel-349, transfer
+lambda_92000-1, 07-tendermint-0, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-2171, connection-1690, channel-350, transfer
+lambda_92000-1, 07-tendermint-6, connection-5, channel-2, transfer, osmosis-1, 07-tendermint-2217, connection-1733, channel-378, transfer

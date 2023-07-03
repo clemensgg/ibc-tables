@@ -1,0 +1,4 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+dig-1, 07-tendermint-11, connection-7, channel-0, transfer, cosmoshub-4, 07-tendermint-502, connection-414, channel-243, transfer
+dig-1, 07-tendermint-13, connection-8, channel-1, transfer, osmosis-1, 07-tendermint-1714, connection-1304, channel-128, transfer
+dig-1, 07-tendermint-17, connection-10, channel-2, transfer, juno-1, 07-tendermint-100, connection-62, channel-37, transfer

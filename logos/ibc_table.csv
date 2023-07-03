@@ -1,0 +1,5 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+logos_7002-1, 07-tendermint-1, connection-1, channel-1, icacontroller-logos1fjx8p8uzx3h5qszqnwvelulzd659j8uaaw0c8l, ethos_7003-1, 07-tendermint-0, connection-0, channel-0, icahost
+logos_7002-1, 07-tendermint-1, connection-1, channel-3, icacontroller-logos1kjuzm2lsa8ndlc904gvnex9lur8tuputgvrq5e, ethos_7003-1, 07-tendermint-0, connection-0, channel-1, icahost
+logos_7002-1, 07-tendermint-0, connection-0, channel-0, icahost, mythos_7001-1, 07-tendermint-0, connection-0, channel-0, icacontroller-mythos1fjx8p8uzx3h5qszqnwvelulzd659j8ua5qvaep
+logos_7002-1, 07-tendermint-0, connection-0, channel-2, icahost, mythos_7001-1, 07-tendermint-0, connection-0, channel-1, icacontroller-mythos1kjuzm2lsa8ndlc904gvnex9lur8tuputpzq928
