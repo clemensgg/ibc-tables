@@ -1,0 +1,15 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+tgrade-mainnet-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2025, connection-1565, channel-263, transfer
+tgrade-mainnet-1, 07-tendermint-2, connection-2, channel-1, transfer, osmosis-1, 07-tendermint-2095, connection-1634, channel-306, transfer
+tgrade-mainnet-1, 07-tendermint-8, connection-11, channel-10, transfer, evmos_9001-2, 07-tendermint-88, connection-46, channel-33, transfer
+tgrade-mainnet-1, 07-tendermint-9, connection-12, channel-11, transfer, sifchain-1, 07-tendermint-206, connection-112, channel-78, transfer
+tgrade-mainnet-1, 07-tendermint-10, connection-13, channel-12, transfer, sifchain-1, 07-tendermint-207, connection-113, channel-79, transfer
+tgrade-mainnet-1, 07-tendermint-11, connection-14, channel-13, transfer, sifchain-1, 07-tendermint-208, connection-114, channel-80, transfer
+tgrade-mainnet-1, 07-tendermint-2, connection-3, channel-2, transfer, osmosis-1, 07-tendermint-2095, connection-1635, channel-307, transfer
+tgrade-mainnet-1, 07-tendermint-2, connection-4, channel-3, transfer, osmosis-1, 07-tendermint-2095, connection-1636, channel-308, transfer
+tgrade-mainnet-1, 07-tendermint-2, connection-5, channel-4, transfer, osmosis-1, 07-tendermint-2095, connection-1637, channel-309, transfer
+tgrade-mainnet-1, 07-tendermint-2, connection-6, channel-5, transfer, osmosis-1, 07-tendermint-2095, connection-1638, channel-310, transfer
+tgrade-mainnet-1, 07-tendermint-2, connection-7, channel-6, transfer, osmosis-1, 07-tendermint-2095, connection-1639, channel-311, transfer
+tgrade-mainnet-1, 07-tendermint-3, connection-8, channel-7, transfer, osmosis-1, 07-tendermint-2112, connection-1652, channel-322, transfer
+tgrade-mainnet-1, 07-tendermint-8, connection-11, channel-8, transfer, evmos_9001-2, 07-tendermint-88, connection-46, channel-32, transfer
+tgrade-mainnet-1, 07-tendermint-8, connection-11, channel-9, transfer, evmos_9001-2, 07-tendermint-88, connection-46, channel-34, transfer
