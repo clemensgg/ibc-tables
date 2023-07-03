@@ -24,20 +24,20 @@ jobs:
           echo "Processing chain: $chain"
           mkdir $chain 2> /dev/null || true
           output=$(timeout 600 ./get_ibc_info.sh https://rest.cosmos.directory/$chain 2> /dev/null)
-          echo "Output: $output"
+          echo "$output"
           if [ $? -eq 0 ]; then
-            echo "$output" > $chain/paths_open.csv.tmp
-            if [ ! -f $chain/paths_open.csv ] || [ $(wc -l < $chain/paths_open.csv.tmp) -gt $(wc -l < $chain/paths_open.csv) ]; then
-              rm $chain/paths_open.csv 2> /dev/null || true
-              mv $chain/paths_open.csv.tmp $chain/paths_open.csv
+            echo "$output" > $chain/ibc_table.csv.tmp
+            if [ ! -f $chain/ibc_table.csv ] || [ $(wc -l < $chain/ibc_table.csv.tmp) -gt $(wc -l < $chain/ibc_table.csv) ]; then
+              rm $chain/ibc_table.csv 2> /dev/null || true
+              mv $chain/ibc_table.csv.tmp $chain/ibc_table.csv
               echo "++ updated"
             else
-              rm $chain/paths_open.csv.tmp
+              rm $chain/ibc_table.csv.tmp
               echo "-- not updated"
             fi
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
-            git add $chain/paths_open.csv
+            git add $chain/ibc_table.csv
             git commit -m "auto update for $chain" || exit 0
             git push origin HEAD:main
           else
