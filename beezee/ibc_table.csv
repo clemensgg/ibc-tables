@@ -1,0 +1,3 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+beezee-1, 07-tendermint-2, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2154, connection-1672, channel-340, transfer
+beezee-1, 07-tendermint-7, connection-1, channel-1, transfer, vidulum-1, 07-tendermint-7, connection-15, channel-12, transfer
