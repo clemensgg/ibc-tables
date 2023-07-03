@@ -14,7 +14,7 @@ An IBC path is a series of entities that facilitate communication between two in
 
 
 ## Overview
-This repository contains scripts that run daily workflows to fetch and update IBC connection data for each chain of the [⚛️ Cosmos chain-registry](https://github.com/cosmos/chain-registry). The data is fetched from each chain's public REST endpoint (using the REST relay provided by [❤️ cosmos.directory](https://cosmos.directory)), processed, and stored in this repository.
+This repository contains scripts that run daily workflows to fetch and update IBC connection data for each chain of the [Cosmos chain-registry ⚛️](https://github.com/cosmos/chain-registry). The data is fetched from each chain's public REST endpoint, processed, and stored in this repository. The script uses public nodes behind the REST relay provided by [cosmos.directory ❤️](https://cosmos.directory)
 
 ## Structure
 The repository is primarily organized around the chains in the Cosmos chain-registry. Each chain has its own folder, and within each folder is a CSV file containing the latest IBC connection data for that chain.
