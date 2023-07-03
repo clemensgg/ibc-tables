@@ -1,0 +1,4 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+empowerchain-1, 07-tendermint-0, connection-0, channel-0, transfer, cosmoshub-4, 07-tendermint-1151, connection-872, channel-621, transfer
+empowerchain-1, 07-tendermint-1, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-2848, connection-2360, channel-1411, transfer
+empowerchain-1, 07-tendermint-2, connection-2, channel-2, transfer, axelar-dojo-1, 07-tendermint-158, connection-142, channel-109, transfer
