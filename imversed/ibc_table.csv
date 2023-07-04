@@ -1,0 +1,3 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+imversed_5555555-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2002, connection-1547, channel-257, transfer
+imversed_5555555-1, 07-tendermint-1, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-2366, connection-1866, channel-517, transfer
