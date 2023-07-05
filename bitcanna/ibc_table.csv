@@ -39,6 +39,7 @@ bitcanna-1, 07-tendermint-71, connection-66, channel-42, transfer, umee-1, 07-te
 bitcanna-1, 07-tendermint-74, connection-68, channel-43, transfer, bostrom, 07-tendermint-47, connection-26, channel-23, transfer
 bitcanna-1, 07-tendermint-78, connection-69, channel-44, transfer, iov-mainnet-ibc, 07-tendermint-84, connection-66, channel-42, transfer
 bitcanna-1, 07-tendermint-79, connection-70, channel-45, transfer, phoenix-1, 07-tendermint-286, connection-201, channel-174, transfer
+bitcanna-1, 07-tendermint-80, connection-71, channel-46, transfer, kaiyo-1, 07-tendermint-143, connection-108, channel-97, transfer
 bitcanna-1, 07-tendermint-7, connection-6, channel-5, transfer, stargaze-1, 07-tendermint-4, connection-4, channel-2, transfer
 bitcanna-1, 07-tendermint-8, connection-7, channel-6, transfer, stargaze-1, 07-tendermint-5, connection-5, channel-3, transfer
 bitcanna-1, 07-tendermint-9, connection-8, channel-7, transfer, stargaze-1, 07-tendermint-6, connection-6, channel-4, transfer
