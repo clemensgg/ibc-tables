@@ -15,6 +15,7 @@ stride-1, 07-tendermint-2, connection-3, channel-76, icacontroller-injective-1.D
 stride-1, 07-tendermint-2, connection-3, channel-77, icacontroller-injective-1.FEE, injective-1, 07-tendermint-131, connection-103, channel-114, icahost
 stride-1, 07-tendermint-2, connection-3, channel-79, icacontroller-injective-1.REDEMPTION, injective-1, 07-tendermint-131, connection-103, channel-113, icahost
 stride-1, 07-tendermint-2, connection-3, channel-78, icacontroller-injective-1.WITHDRAWAL, injective-1, 07-tendermint-131, connection-103, channel-116, icahost
+stride-1, 07-tendermint-31, connection-19, channel-138, icacontroller-juno-1.DELEGATION, juno-1, 07-tendermint-263, connection-205, channel-282, icahost
 stride-1, 07-tendermint-31, connection-19, channel-26, icacontroller-juno-1.FEE, juno-1, 07-tendermint-263, connection-205, channel-143, icahost
 stride-1, 07-tendermint-31, connection-19, channel-28, icacontroller-juno-1.REDEMPTION, juno-1, 07-tendermint-263, connection-205, channel-140, icahost
 stride-1, 07-tendermint-31, connection-19, channel-27, icacontroller-juno-1.WITHDRAWAL, juno-1, 07-tendermint-263, connection-205, channel-142, icahost
