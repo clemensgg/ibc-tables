@@ -6,6 +6,7 @@ shentu-2.2, 07-tendermint-14, connection-12, channel-11, transfer, cosmoshub-4, 
 shentu-2.2, 07-tendermint-16, connection-14, channel-12, transfer, osmosis-1, 07-tendermint-1905, connection-1479, channel-226, transfer
 shentu-2.2, 07-tendermint-17, connection-15, channel-13, transfer, osmosis-1, 07-tendermint-1906, connection-1480, channel-227, transfer
 shentu-2.2, 07-tendermint-18, connection-17, channel-14, transfer, osmosis-1, 07-tendermint-1995, connection-1544, channel-255, transfer
+shentu-2.2, 07-tendermint-26, connection-18, channel-15, transfer, archway-1, 07-tendermint-9, connection-8, channel-7, transfer
 shentu-2.2, 07-tendermint-2, connection-2, channel-2, transfer, osmosis-1, 07-tendermint-1602, connection-1260, channel-100, transfer
 shentu-2.2, 07-tendermint-3, connection-3, channel-3, transfer, sifchain-1, 07-tendermint-57, connection-33, channel-29, transfer
 shentu-2.2, 07-tendermint-4, connection-4, channel-4, transfer, irishub-1, 07-tendermint-55, connection-38, channel-28, transfer
