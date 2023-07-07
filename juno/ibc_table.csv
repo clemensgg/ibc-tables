@@ -11,6 +11,7 @@ juno-1, 07-tendermint-379, connection-373, channel-274, icahost, quicksilver-2, 
 juno-1, 07-tendermint-379, connection-373, channel-275, icahost, quicksilver-2, 07-tendermint-68, connection-50, channel-92, icacontroller-juno-1.performance
 juno-1, 07-tendermint-379, connection-373, channel-276, icahost, quicksilver-2, 07-tendermint-68, connection-50, channel-93, icacontroller-juno-1.delegate
 juno-1, 07-tendermint-379, connection-373, channel-277, icahost, quicksilver-2, 07-tendermint-68, connection-50, channel-90, icacontroller-juno-1.deposit
+juno-1, 07-tendermint-263, connection-205, channel-282, icahost, stride-1, 07-tendermint-31, connection-19, channel-138, icacontroller-juno-1.DELEGATION
 juno-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-1457, connection-1142, channel-42, transfer
 juno-1, 07-tendermint-3, connection-2, channel-1, transfer, cosmoshub-4, 07-tendermint-439, connection-372, channel-207, transfer
 juno-1, 07-tendermint-25, connection-17, channel-10, transfer, sifchain-testnet-1, 07-tendermint-27, connection-5, channel-6, transfer
@@ -112,6 +113,7 @@ juno-1, 07-tendermint-0, connection-0, channel-271, transfer, osmosis-1, 07-tend
 juno-1, 07-tendermint-379, connection-373, channel-272, transfer, quicksilver-2, 07-tendermint-68, connection-50, channel-86, transfer
 juno-1, 07-tendermint-79, connection-46, channel-28, transfer, chihuahua-1, 07-tendermint-54, connection-30, channel-11, transfer
 juno-1, 07-tendermint-382, connection-376, channel-280, transfer, centauri-1, 07-tendermint-30, connection-15, channel-8, transfer
+juno-1, 07-tendermint-383, connection-378, channel-281, transfer, archway-1, 07-tendermint-14, connection-13, channel-12, transfer
 juno-1, 07-tendermint-80, connection-47, channel-29, transfer, akashnet-2, 07-tendermint-84, connection-58, channel-35, transfer
 juno-1, 07-tendermint-7, connection-6, channel-3, transfer, sifchain-devnet-1, 07-tendermint-238, connection-145, channel-129, transfer
 juno-1, 07-tendermint-86, connection-48, channel-30, transfer, akashnet-2, 07-tendermint-90, connection-59, channel-36, transfer
