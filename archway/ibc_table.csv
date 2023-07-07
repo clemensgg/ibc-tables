@@ -1,6 +1,9 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 archway-1, 07-tendermint-0, connection-0, channel-0, transfer, cosmoshub-4, 07-tendermint-1152, connection-873, channel-623, transfer
 archway-1, 07-tendermint-2, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-2850, connection-2362, channel-1429, transfer
+archway-1, 07-tendermint-12, connection-11, channel-10, transfer, kaiyo-1, 07-tendermint-144, connection-109, channel-98, transfer
+archway-1, 07-tendermint-12, connection-12, channel-11, transfer, kaiyo-1, 07-tendermint-144, connection-110, channel-99, transfer
+archway-1, 07-tendermint-14, connection-13, channel-12, transfer, juno-1, 07-tendermint-383, connection-378, channel-281, transfer
 archway-1, 07-tendermint-3, connection-2, channel-2, transfer, axelar-dojo-1, 07-tendermint-159, connection-143, channel-110, transfer
 archway-1, 07-tendermint-5, connection-4, channel-3, transfer, jackal-1, 07-tendermint-59, connection-49, channel-40, transfer
 archway-1, 07-tendermint-6, connection-5, channel-4, transfer, umee-1, 07-tendermint-228, connection-190, channel-97, transfer
