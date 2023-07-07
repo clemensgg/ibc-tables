@@ -5,3 +5,4 @@ onomy-mainnet-1, 07-tendermint-2, connection-3, channel-2, transfer, exchain-66,
 onomy-mainnet-1, 07-tendermint-3, connection-4, channel-3, transfer, injective-1, 07-tendermint-141, connection-114, channel-96, transfer
 onomy-mainnet-1, 07-tendermint-4, connection-5, channel-4, transfer, exchain-66, 07-tendermint-118, connection-80, channel-48, transfer
 onomy-mainnet-1, 07-tendermint-4, connection-6, channel-5, transfer, exchain-66, 07-tendermint-118, connection-82, channel-50, transfer
+onomy-mainnet-1, 07-tendermint-7, connection-8, channel-6, transfer, osmosis-1, 07-tendermint-2405, connection-2363, channel-1453, transfer
