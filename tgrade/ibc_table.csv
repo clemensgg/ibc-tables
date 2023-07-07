@@ -5,6 +5,7 @@ tgrade-mainnet-1, 07-tendermint-8, connection-11, channel-10, transfer, evmos_90
 tgrade-mainnet-1, 07-tendermint-9, connection-12, channel-11, transfer, sifchain-1, 07-tendermint-206, connection-112, channel-78, transfer
 tgrade-mainnet-1, 07-tendermint-10, connection-13, channel-12, transfer, sifchain-1, 07-tendermint-207, connection-113, channel-79, transfer
 tgrade-mainnet-1, 07-tendermint-11, connection-14, channel-13, transfer, sifchain-1, 07-tendermint-208, connection-114, channel-80, transfer
+tgrade-mainnet-1, 07-tendermint-12, connection-15, channel-14, transfer, archway-1, 07-tendermint-10, connection-9, channel-8, transfer
 tgrade-mainnet-1, 07-tendermint-2, connection-3, channel-2, transfer, osmosis-1, 07-tendermint-2095, connection-1635, channel-307, transfer
 tgrade-mainnet-1, 07-tendermint-2, connection-4, channel-3, transfer, osmosis-1, 07-tendermint-2095, connection-1636, channel-308, transfer
 tgrade-mainnet-1, 07-tendermint-2, connection-5, channel-4, transfer, osmosis-1, 07-tendermint-2095, connection-1637, channel-309, transfer
