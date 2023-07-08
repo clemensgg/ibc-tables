@@ -1,4 +1,5 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+phoenix-1, 07-tendermint-87, connection-72, channel-199, icahost, stride-1, 07-tendermint-51, connection-32, channel-141, icacontroller-phoenix-1.DELEGATION
 phoenix-1, 07-tendermint-100, connection-88, channel-73, icahost, local-test-1, 07-tendermint-0, connection-0, channel-3, icacontroller-phoenix-1.WITHDRAWAL
 phoenix-1, 07-tendermint-100, connection-88, channel-74, icahost, local-test-1, 07-tendermint-0, connection-0, channel-4, icacontroller-phoenix-1.REDEMPTION
 phoenix-1, 07-tendermint-100, connection-88, channel-75, icahost, local-test-1, 07-tendermint-0, connection-0, channel-2, icacontroller-phoenix-1.FEE
