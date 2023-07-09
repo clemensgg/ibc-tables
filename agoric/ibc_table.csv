@@ -50,6 +50,7 @@ agoric-3, 07-tendermint-66, connection-60, channel-51, transfer, evmos_9001-2, 0
 agoric-3, 07-tendermint-67, connection-61, channel-52, transfer, phoenix-1, 07-tendermint-285, connection-200, channel-173, transfer
 agoric-3, 07-tendermint-68, connection-62, channel-53, transfer, omniflixhub-1, 07-tendermint-45, connection-38, channel-28, transfer
 agoric-3, 07-tendermint-69, connection-63, channel-54, transfer, omniflixhub-1, 07-tendermint-46, connection-39, channel-29, transfer
+agoric-3, 07-tendermint-70, connection-64, channel-55, transfer, centauri-1, 07-tendermint-51, connection-20, channel-13, transfer
 agoric-3, 07-tendermint-8, connection-11, channel-6, transfer, axelar-dojo-1, 07-tendermint-68, connection-50, channel-39, transfer
 agoric-3, 07-tendermint-9, connection-12, channel-7, transfer, crescent-1, 07-tendermint-25, connection-28, channel-22, transfer
 agoric-3, 07-tendermint-10, connection-13, channel-8, transfer, osmosis-1, 07-tendermint-2184, connection-1699, channel-359, transfer
