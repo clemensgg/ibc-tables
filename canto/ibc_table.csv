@@ -14,6 +14,7 @@ canto_7700-1, 07-tendermint-1, connection-3, channel-2, transfer, cosmoshub-4, 0
 canto_7700-1, 07-tendermint-35, connection-28, channel-20, transfer, noble-1, 07-tendermint-13, connection-20, channel-8, transfer
 canto_7700-1, 07-tendermint-36, connection-30, channel-21, transfer, kaiyo-1, 07-tendermint-111, connection-81, channel-74, transfer
 canto_7700-1, 07-tendermint-37, connection-31, channel-22, transfer, cronosmainnet_25-1, 07-tendermint-31, connection-15, channel-9, transfer
+canto_7700-1, 07-tendermint-38, connection-32, channel-23, transfer, , 07-tendermint-50, connection-19, channel-12, transfer
 canto_7700-1, 07-tendermint-5, connection-5, channel-3, transfer, cosmoshub-4, 07-tendermint-991, connection-689, channel-443, transfer
 canto_7700-1, 07-tendermint-8, connection-8, channel-4, transfer, comdex-1, 07-tendermint-122, connection-60, channel-54, transfer
 canto_7700-1, 07-tendermint-9, connection-9, channel-5, transfer, osmosis-1, 07-tendermint-2481, connection-2017, channel-550, transfer
