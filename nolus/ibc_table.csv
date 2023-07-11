@@ -1,4 +1,5 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+pirin-1, 07-tendermint-0, connection-0, channel-164, icacontroller-nolus10mamc5q334hx4mmwgvczwjzh43wlr7ypf2xlxzj4hzprt4ejzgxses82fv.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1548, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-7, icacontroller-nolus10u2skqwln29qrw2ggg5xhkw8t0xct6jz4674urcdx5qj0uyl08eqrknq5c.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-902, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-71, icacontroller-nolus10vuejnk4kchkle2fyvdcsfrkmjau8zu8l6wlahjfrzfse6wd85tsyjnn60.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1157, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-128, icacontroller-nolus1236ffjh9l44d6wh3jptudx2zrcqp2epftnj6m8stzqhpdssf8vtqws6dpw.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1404, icahost
@@ -73,6 +74,7 @@ pirin-1, 07-tendermint-0, connection-0, channel-66, icacontroller-nolus1gr2jkkm5
 pirin-1, 07-tendermint-0, connection-0, channel-64, icacontroller-nolus1gr39wsgs8p274gd2cdnauffnfydvgyyaueqmtnhh77032s3mr2fqveeh3m.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1110, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-102, icacontroller-nolus1gyf5lvfn0x3khhgzzrq3gtlvjl4e47xhgtext9wcw6ew6upnuvrsnexn6n.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1302, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-16, icacontroller-nolus1h6828as2z5av0xqtlh4w9m75wxewapk8z9l2flvzc29zeyzhx6fqn0ld6q.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-934, icahost
+pirin-1, 07-tendermint-0, connection-0, channel-163, icacontroller-nolus1ha3lrscmrn5uy8gng90ket2uyaa4jscjj7prmx4l6ftnmuvuyvwq03kqeg.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1546, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-117, icacontroller-nolus1hdlejewtdl8fkj52ghhvy2c838lkpp6esxehm5l9arr22sjnzccs6ln9nn.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1363, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-47, icacontroller-nolus1heufwamre5agx8u0asfvpmvywhe327yahzw8t7eu7ypjrhrgm3ts09d05w.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1042, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-94, icacontroller-nolus1hpdkcys8qvvjgz52x686wdlh7y8htnef6x75jz8y4uesvf96uy8qd3mqpp.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1266, icahost
@@ -108,6 +110,7 @@ pirin-1, 07-tendermint-0, connection-0, channel-84, icacontroller-nolus1pdwpvhqz
 pirin-1, 07-tendermint-0, connection-0, channel-118, icacontroller-nolus1plup26suc048hefhrzu48fhtjc3drqcz2xcj4pwdnrg9gd4gzwcqw8c0jq.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1366, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-145, icacontroller-nolus1qcwtf9fhysam202u2ehz5e6vknjpx5wn6c90pxmduf3hw4h02jzq66yhqt.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1473, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-22, icacontroller-nolus1qhh6n5q2n7xvanmvqdjac4welmm3lev273dkk5e3flxhrclrk9jqxvzshn.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-949, icahost
+pirin-1, 07-tendermint-0, connection-0, channel-161, icacontroller-nolus1qkqxkgjxv3j78mgwkch5rnjuzpg4hdznc5nf6fpw90syruk496tsw4hg60.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1537, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-93, icacontroller-nolus1qt4gprtk48se72x4zn4dsja2wzwq2sukcv7qlgxgrcgc0xt0v34srhg272.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1264, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-123, icacontroller-nolus1qxevfpvjc7zl78skjv0ljyymkp83z9mj065e58fnvq82nn4xgh3st9ck2j.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1384, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-81, icacontroller-nolus1r3zgdsn3dcze07a4r60rxxx7ppvkxfshn9np0pwtkgarrld0786slvyfc8.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1218, icahost
@@ -119,6 +122,7 @@ pirin-1, 07-tendermint-0, connection-0, channel-135, icacontroller-nolus1s3gz2n9
 pirin-1, 07-tendermint-0, connection-0, channel-95, icacontroller-nolus1s3xvpy3crq5d4zq5j3dq9tvjrcqnrs6p522vgp2l9ka0eezw6hqqdupq2s.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1271, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-114, icacontroller-nolus1s524rplxxju4nywav8qwgmzlj6y8khxg4xfcz48ny6q03xxu04cs5xvlc9.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1349, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-70, icacontroller-nolus1sd3mzms6ymfre729823r38vx7mwlue8kx3hym4rf85x0sgm06scsk5em0g.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1134, icahost
+pirin-1, 07-tendermint-0, connection-0, channel-165, icacontroller-nolus1sglg5yt5h38m9tqhcs5xfk4ctj683g8dlez4ekvtnzmagvy8a70qddm3sz.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1552, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-31, icacontroller-nolus1sstqldl7tyvvdseppsa022acrxp7cuuplkc7639w7x7cmm4hjvvqd5e3wc.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-977, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-141, icacontroller-nolus1su2sxqtyrzjf5zuvs0x9sd877nzgvzq7fhzczvmny70czpee59mq589cqc.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1454, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-111, icacontroller-nolus1suz0vsqe8c8anckaer98awhqs8r4hu7wsm8a49acdl39x6ylfypsqywxwh.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1339, icahost
@@ -134,6 +138,7 @@ pirin-1, 07-tendermint-0, connection-0, channel-65, icacontroller-nolus1uja4ulrg
 pirin-1, 07-tendermint-0, connection-0, channel-109, icacontroller-nolus1uue7klrpwu63cpq5jyah8ke5mnzcw6g4e3sqhpcu2ruuft472heq30x3z3.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1329, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-30, icacontroller-nolus1uv4dz7ngaqwymvxggrjp3rnz3gs33szwjsnrxqg0ylkykqf8r7ns7v2fmq.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-975, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-59, icacontroller-nolus1vcjsqwumsm7cup9h7una35tjmfc637v40s6eau4czt7g6dmd4ksqzeu5aa.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1090, icahost
+pirin-1, 07-tendermint-0, connection-0, channel-162, icacontroller-nolus1vfatffvg657szvaw99me2z9x7wlvkc5kym97uvm5x4lmq5ws378qzgj9xh.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1540, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-58, icacontroller-nolus1vlc3x0senj2v8th630cdgk9whgnual5atxzhl0uxp3x7z24jmltqyw09s3.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1086, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-18, icacontroller-nolus1vlqvaptpe7hztjj52whxk5mm6k2ey9hu4rv5ueu89shagk72mewqpuk7yq.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-941, icahost
 pirin-1, 07-tendermint-0, connection-0, channel-72, icacontroller-nolus1vmpuzmrhn84r9vssmadkz99dw9nga3xfwnvnnp4vkjtxql0kwl6sa4fc6j.0, osmosis-1, 07-tendermint-2791, connection-2289, channel-1184, icahost
