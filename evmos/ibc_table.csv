@@ -62,4 +62,5 @@ evmos_9001-2, 07-tendermint-17, connection-11, channel-8, transfer, gravity-brid
 evmos_9001-2, 07-tendermint-110, connection-65, channel-81, transfer, agoric-3, 07-tendermint-66, connection-60, channel-51, transfer
 evmos_9001-2, 07-tendermint-111, connection-66, channel-82, transfer, centauri-1, 07-tendermint-26, connection-14, channel-7, transfer
 evmos_9001-2, 07-tendermint-113, connection-67, channel-83, transfer, kava_2222-10, 07-tendermint-120, connection-157, channel-117, transfer
+evmos_9001-2, 07-tendermint-116, connection-70, channel-85, transfer, agoric-3, 07-tendermint-72, connection-66, channel-57, transfer
 evmos_9001-2, 07-tendermint-18, connection-12, channel-9, transfer, axelar-dojo-1, 07-tendermint-34, connection-18, channel-8, transfer
