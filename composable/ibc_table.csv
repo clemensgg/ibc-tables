@@ -9,6 +9,7 @@ centauri-1, 07-tendermint-52, connection-21, channel-14, transfer, secret-4, 07-
 centauri-1, 07-tendermint-58, connection-25, channel-15, transfer, osmosis-1, 07-tendermint-2864, connection-2377, channel-1556, transfer
 centauri-1, 07-tendermint-59, connection-26, channel-16, transfer, osmosis-1, 07-tendermint-2865, connection-2378, channel-1557, transfer
 centauri-1, 07-tendermint-60, connection-27, channel-17, transfer, osmosis-1, 07-tendermint-2866, connection-2379, channel-1558, transfer
+centauri-1, 07-tendermint-66, connection-28, channel-18, transfer, neutron-1, 07-tendermint-29, connection-22, channel-17, transfer
 centauri-1, 08-wasm-5, connection-5, channel-2, transfer, null, 07-tendermint-32, connection-26, channel-17, transfer
 centauri-1, 07-tendermint-6, connection-6, channel-3, transfer, osmosis-1, 07-tendermint-2846, connection-2358, channel-1279, transfer
 centauri-1, 07-tendermint-7, connection-7, channel-4, transfer, cosmoshub-4, 07-tendermint-1150, connection-871, channel-617, transfer
