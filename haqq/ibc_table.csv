@@ -1,0 +1,5 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+haqq_11235-1, 07-tendermint-0, connection-0, channel-0, transfer, gravity-bridge-3, 07-tendermint-192, connection-163, channel-100, transfer
+haqq_11235-1, 07-tendermint-1, connection-1, channel-1, transfer, axelar-dojo-1, 07-tendermint-162, connection-148, channel-113, transfer
+haqq_11235-1, 07-tendermint-3, connection-2, channel-2, transfer, osmosis-1, 07-tendermint-2871, connection-2388, channel-1575, transfer
+haqq_11235-1, 07-tendermint-2, connection-3, channel-3, transfer, cosmoshub-4, 07-tendermint-1153, connection-874, channel-632, transfer
