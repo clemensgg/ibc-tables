@@ -9,6 +9,7 @@ fxcore, 07-tendermint-17, connection-17, channel-14, transfer, MarginX-10000000C
 fxcore, 07-tendermint-18, connection-18, channel-15, transfer, MarginX-ATOMUSDT, 07-tendermint-0, connection-0, channel-0, transfer
 fxcore, 07-tendermint-19, connection-19, channel-16, transfer, MarginX-OSMOUSDT, 07-tendermint-0, connection-0, channel-0, transfer
 fxcore, 07-tendermint-20, connection-20, channel-17, transfer, MarginX-STRDUSDT, 07-tendermint-0, connection-0, channel-0, transfer
+fxcore, 07-tendermint-21, connection-21, channel-18, transfer, MarginX-ATOMUSDT, 07-tendermint-0, connection-0, channel-0, transfer
 fxcore, 07-tendermint-5, connection-3, channel-2, transfer, MarginX-BTC, 07-tendermint-0, connection-0, channel-0, transfer
 fxcore, 07-tendermint-6, connection-4, channel-3, transfer, MarginX-APE, 07-tendermint-0, connection-0, channel-0, transfer
 fxcore, 07-tendermint-7, connection-5, channel-4, transfer, MarginX-BTC, 07-tendermint-0, connection-0, channel-0, transfer
