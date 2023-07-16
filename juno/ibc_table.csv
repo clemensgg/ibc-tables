@@ -11,7 +11,7 @@ juno-1, 07-tendermint-379, connection-373, channel-274, icahost, quicksilver-2, 
 juno-1, 07-tendermint-379, connection-373, channel-275, icahost, quicksilver-2, 07-tendermint-68, connection-50, channel-92, icacontroller-juno-1.performance
 juno-1, 07-tendermint-379, connection-373, channel-276, icahost, quicksilver-2, 07-tendermint-68, connection-50, channel-93, icacontroller-juno-1.delegate
 juno-1, 07-tendermint-379, connection-373, channel-277, icahost, quicksilver-2, 07-tendermint-68, connection-50, channel-90, icacontroller-juno-1.deposit
-juno-1, 07-tendermint-263, connection-205, channel-282, icahost, stride-1, 07-tendermint-31, connection-19, channel-138, icacontroller-juno-1.DELEGATION
+juno-1, 07-tendermint-263, connection-205, channel-284, icahost, stride-1, 07-tendermint-31, connection-19, channel-142, icacontroller-juno-1.DELEGATION
 juno-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-1457, connection-1142, channel-42, transfer
 juno-1, 07-tendermint-3, connection-2, channel-1, transfer, cosmoshub-4, 07-tendermint-439, connection-372, channel-207, transfer
 juno-1, 07-tendermint-25, connection-17, channel-10, transfer, sifchain-testnet-1, 07-tendermint-27, connection-5, channel-6, transfer
@@ -177,6 +177,7 @@ juno-1, 07-tendermint-288, connection-256, channel-201, wasm.juno1380xsz7qnanpn9
 juno-1, 07-tendermint-286, connection-255, channel-200, wasm.juno13qw7myq026jesj5jutzzxmlfemc7468n8dp7vty7zlw8w08cyxuqfsvxh3, nois-testnet-003, 07-tendermint-33, connection-16, channel-17, wasm.nois1s9ly26evj8ehurptws5d6dm4a9g2z0htcqvlvn95kc30eucl4s5sd8hkgp
 juno-1, 07-tendermint-381, connection-375, channel-279, wasm.juno13tamtu4qwe6d5lr5268rydalhlmcj79vaqr2ant4x6ejw3gpmncsyf8u62, uni-6, 07-tendermint-446, connection-586, channel-466, wasm.juno17fjl6zxa0rlaeuks2f8gfmmpv3ypxj3g9rwtt7x066eyy94ydaesdvww7y
 juno-1, 07-tendermint-114, connection-72, channel-51, wasm.juno18dtz528nsjls4xlsf2p5t37udgzv7sgz4yumjyds743sd4f3tr5sg2nju4, band, 07-tendermint-6, connection-2, channel-5, oracle
+juno-1, 07-tendermint-0, connection-0, channel-288, wasm.juno1ads7gcpje0y5jxhtn3ntsqs8kg3ahch9u953jk6v0njq4l39m3us5sxw68, osmosis-1, 07-tendermint-1457, connection-1142, channel-1664, wasm.osmo1af93h8xcszszes2a0kjms5zpm5ns3fys4aez2f40fgz428hc8aws28klzs
 juno-1, 07-tendermint-335, connection-325, channel-248, wasm.juno1avjq06m3l03pl2k8ecvpdhkzrld8s3x48qvhp8merhfjh753vvdskqqs74, nois-1, 07-tendermint-1, connection-2, channel-11, wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp
 juno-1, 07-tendermint-216, connection-152, channel-95, wasm.juno1e4sduqq2qyrdd36el2qs88e47yj49taqwx9z7tfpxe3huhkaspds563zyd, band-laozi-testnet5, 07-tendermint-77, connection-72, channel-64, oracle
 juno-1, 07-tendermint-204, connection-143, channel-90, wasm.juno1fsay0zux2vkyrsqpepd08q2vlytrfu7gsqnapsfl9ge8mp6fvx3qf062q9, uni-3, 07-tendermint-83, connection-61, channel-72, wasm.juno1r8k4hf7umksu9w53u4sz0jsla5478am6yxr0mhkuvp00yvtmxexsj8wazt
@@ -184,6 +185,7 @@ juno-1, 07-tendermint-297, connection-266, channel-203, wasm.juno1k5ykz3n6xz2n59
 juno-1, 07-tendermint-0, connection-0, channel-84, wasm.juno1lfqqr07uw6k30axhkxg4lkmrat87hh972swakxz276n2leu9vqusw2ce5a, osmosis-1, 07-tendermint-1457, connection-1142, channel-241, transfer
 juno-1, 07-tendermint-205, connection-144, channel-91, wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg, kaiyo-1, 07-tendermint-27, connection-20, channel-24, transfer
 juno-1, 07-tendermint-217, connection-153, channel-97, wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg, kaiyo-1, 07-tendermint-35, connection-30, channel-31, transfer
+juno-1, 07-tendermint-0, connection-0, channel-287, wasm.juno1mkq8ggvmr7kzu85c9muud30nmdcv98050uxyqrqmmftlmag044gs3e0d0u, osmosis-1, 07-tendermint-1457, connection-1142, channel-1656, wasm.osmo1zu9sa2yu9ffdk6pxsgjzgp56wqgyzdh8e0ndn7crr3d0xhvtj8uqdv3dqa
 juno-1, 07-tendermint-60, connection-40, channel-25, wasm.juno1nkahswfr8shg8rlxqwup0vgahp0dk4x8w6tkv3rra8rratnut36sqj48re, osmosis-1, 07-tendermint-1724, connection-1313, channel-133, transfer
 juno-1, 07-tendermint-61, connection-41, channel-26, wasm.juno1nkahswfr8shg8rlxqwup0vgahp0dk4x8w6tkv3rra8rratnut36sqj48re, osmosis-1, 07-tendermint-1725, connection-1314, channel-134, transfer
 juno-1, 07-tendermint-347, connection-348, channel-230, wasm.juno1nnm4adhg6yz7a0s8ys0zwmm92reh66swqpfyp30m7dv3lawqtyuqh2utcu, osmosis-1, 07-tendermint-2747, connection-2269, channel-762, transfer
