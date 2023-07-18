@@ -49,5 +49,6 @@ planq_7070-2, 07-tendermint-465, connection-414, channel-54, transfer, iov-mainn
 planq_7070-2, 07-tendermint-467, connection-416, channel-55, transfer, comdex-1, 07-tendermint-125, connection-63, channel-55, transfer
 planq_7070-2, 07-tendermint-502, connection-447, channel-56, transfer, mars-1, 07-tendermint-13, connection-8, channel-4, transfer
 planq_7070-2, 07-tendermint-517, connection-456, channel-57, transfer, quicksilver-2, 07-tendermint-14, connection-7, channel-11, transfer
+planq_7070-2, 07-tendermint-542, connection-474, channel-58, transfer, stargaze-1, 07-tendermint-282, connection-210, channel-188, transfer
 planq_7070-2, 07-tendermint-53, connection-38, channel-8, transfer, stride-1, 07-tendermint-55, connection-34, channel-54, transfer
 planq_7070-2, 07-tendermint-58, connection-42, channel-9, transfer, stride-1, 07-tendermint-59, connection-37, channel-55, transfer
