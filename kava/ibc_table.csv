@@ -24,6 +24,7 @@ kava_2222-10, 07-tendermint-124, connection-160, channel-119, transfer, umee-1, 
 kava_2222-10, 07-tendermint-17, connection-12, channel-12, transfer, testmun-ica, 07-tendermint-26, connection-9, channel-5, transfer
 kava_2222-10, 07-tendermint-125, connection-162, channel-120, transfer, migaloo-1, 07-tendermint-90, connection-73, channel-48, transfer
 kava_2222-10, 07-tendermint-129, connection-165, channel-121, transfer, migaloo-1, 07-tendermint-95, connection-77, channel-51, transfer
+kava_2222-10, 07-tendermint-130, connection-166, channel-122, transfer, injective-1, 07-tendermint-205, connection-189, channel-143, transfer
 kava_2222-10, 07-tendermint-18, connection-13, channel-13, transfer, oppyChain-1, 07-tendermint-11, connection-3, channel-4, transfer
 kava_2222-10, 07-tendermint-27, connection-17, channel-16, transfer, kava_2221-16000, 07-tendermint-11, connection-11, channel-3, transfer
 kava_2222-10, 07-tendermint-27, connection-18, channel-17, transfer, kava_2221-16000, 07-tendermint-11, connection-12, channel-4, transfer
