@@ -17,6 +17,7 @@ centauri-1, 07-tendermint-84, connection-34, channel-21, transfer, injective-1, 
 centauri-1, 07-tendermint-85, connection-35, channel-22, transfer, regen-1, 07-tendermint-173, connection-145, channel-145, transfer
 centauri-1, 07-tendermint-86, connection-36, channel-23, transfer, core-1, 07-tendermint-150, connection-187, channel-114, transfer
 centauri-1, 07-tendermint-93, connection-41, channel-24, transfer, comdex-1, 07-tendermint-188, connection-85, channel-85, transfer
+centauri-1, 07-tendermint-94, connection-42, channel-25, transfer, secret-4, 07-tendermint-167, connection-117, channel-81, wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4
 centauri-1, 07-tendermint-6, connection-6, channel-3, transfer, osmosis-1, 07-tendermint-2846, connection-2358, channel-1279, transfer
 centauri-1, 07-tendermint-7, connection-7, channel-4, transfer, cosmoshub-4, 07-tendermint-1150, connection-871, channel-617, transfer
 centauri-1, 07-tendermint-14, connection-8, channel-5, transfer, stride-1, 07-tendermint-126, connection-116, channel-134, transfer
