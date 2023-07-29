@@ -1,5 +1,5 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
-phoenix-1, 07-tendermint-87, connection-72, channel-199, icahost, stride-1, 07-tendermint-51, connection-32, channel-141, icacontroller-phoenix-1.DELEGATION
+phoenix-1, 07-tendermint-87, connection-72, channel-202, icahost, stride-1, 07-tendermint-51, connection-32, channel-144, icacontroller-phoenix-1.DELEGATION
 phoenix-1, 07-tendermint-100, connection-88, channel-73, icahost, local-test-1, 07-tendermint-0, connection-0, channel-3, icacontroller-phoenix-1.WITHDRAWAL
 phoenix-1, 07-tendermint-100, connection-88, channel-74, icahost, local-test-1, 07-tendermint-0, connection-0, channel-4, icacontroller-phoenix-1.REDEMPTION
 phoenix-1, 07-tendermint-100, connection-88, channel-75, icahost, local-test-1, 07-tendermint-0, connection-0, channel-2, icacontroller-phoenix-1.FEE
@@ -87,6 +87,7 @@ phoenix-1, 07-tendermint-313, connection-223, channel-191, transfer, stargaze-1,
 phoenix-1, 07-tendermint-314, connection-225, channel-192, transfer, umee-1, 07-tendermint-227, connection-189, channel-96, transfer
 phoenix-1, 07-tendermint-315, connection-228, channel-193, transfer, desmos-mainnet, 07-tendermint-73, connection-41, channel-29, transfer
 phoenix-1, 07-tendermint-3, connection-6, channel-2, transfer, juno-1, 07-tendermint-185, connection-128, channel-86, transfer
+phoenix-1, 07-tendermint-317, connection-233, channel-204, transfer, stafihub-1, 07-tendermint-5, connection-5, channel-9, transfer
 phoenix-1, 07-tendermint-56, connection-47, channel-25, transfer, stride-1, 07-tendermint-15, connection-11, channel-13, transfer
 phoenix-1, 07-tendermint-4, connection-7, channel-3, transfer, secret-4, 07-tendermint-38, connection-20, channel-16, transfer
 phoenix-1, 07-tendermint-3, connection-6, channel-33, transfer, juno-1, 07-tendermint-185, connection-128, channel-154, wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn
