@@ -2,6 +2,7 @@ CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CL
 sommelier-3, 07-tendermint-54, connection-57, channel-39, icahost, magic-1, 07-tendermint-12, connection-9, channel-54, icacontroller-sommelier-3.performance
 sommelier-3, 07-tendermint-54, connection-57, channel-40, icahost, magic-1, 07-tendermint-12, connection-9, channel-52, icacontroller-sommelier-3.deposit
 sommelier-3, 07-tendermint-54, connection-57, channel-41, icahost, magic-1, 07-tendermint-12, connection-9, channel-55, icacontroller-sommelier-3.delegate
+sommelier-3, 07-tendermint-54, connection-57, channel-48, icahost, magic-1, 07-tendermint-12, connection-9, channel-59, icacontroller-sommelier-3.withdrawal
 sommelier-3, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-1745, connection-1348, channel-165, transfer
 sommelier-3, 07-tendermint-4, connection-1, channel-1, transfer, injective-1, 07-tendermint-135, connection-108, channel-93, transfer
 sommelier-3, 07-tendermint-18, connection-17, channel-10, transfer, akashnet-2, 07-tendermint-153, connection-134, channel-97, transfer
