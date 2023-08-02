@@ -61,6 +61,7 @@ secret-4, 07-tendermint-166, connection-116, channel-80, transfer, centauri-1, 0
 secret-4, 07-tendermint-2, connection-1, channel-39, wasm.secret180sjm5790gpgw8r3yepq8ulzvj0p5xft8j0lal, osmosis-1, 07-tendermint-1588, connection-1244, channel-474, transfer
 secret-4, 07-tendermint-117, connection-90, channel-58, wasm.secret1nvytjz7t5wakf0ra5y47dfenatwxpggmkwc5ru, axelar-dojo-1, 07-tendermint-94, connection-81, channel-65, transfer
 secret-4, 07-tendermint-118, connection-91, channel-59, wasm.secret1nvytjz7t5wakf0ra5y47dfenatwxpggmkwc5ru, axelar-dojo-1, 07-tendermint-101, connection-86, channel-67, transfer
+secret-4, 07-tendermint-168, connection-118, channel-82, wasm.secret1rrs9hfqkdtrjlwrtvde28zzr4dtx2wt94jnk7l, injective-888, 07-tendermint-126, connection-100, channel-80, wasm.inj1egx4af52uls2segv3xt4uatgrwxkqy3zd0wpen
 secret-4, 07-tendermint-2, connection-1, channel-43, wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4, osmosis-1, 07-tendermint-1588, connection-1244, channel-475, transfer
 secret-4, 07-tendermint-2, connection-1, channel-44, wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4, osmosis-1, 07-tendermint-1588, connection-1244, channel-476, transfer
 secret-4, 07-tendermint-23, connection-9, channel-45, wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4, juno-1, 07-tendermint-108, connection-68, channel-163, transfer
