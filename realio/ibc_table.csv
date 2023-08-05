@@ -1,3 +1,4 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 realionetwork_3301-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2838, connection-2352, channel-1011, transfer
 realionetwork_3301-1, 07-tendermint-1, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-2849, connection-2361, channel-1424, transfer
+realionetwork_3301-1, 07-tendermint-2, connection-2, channel-2, transfer, cosmoshub-4, 07-tendermint-1157, connection-879, channel-645, transfer
