@@ -2,3 +2,4 @@ CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CL
 qwoyn-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2831, connection-2345, channel-880, transfer
 qwoyn-1, 07-tendermint-1, connection-1, channel-1, transfer, axelar-dojo-1, 07-tendermint-156, connection-141, channel-108, transfer
 qwoyn-1, 07-tendermint-2, connection-2, channel-2, transfer, regen-1, 07-tendermint-171, connection-143, channel-143, transfer
+qwoyn-1, 07-tendermint-3, connection-3, channel-3, transfer, axelar-dojo-1, 07-tendermint-176, connection-154, channel-117, transfer
