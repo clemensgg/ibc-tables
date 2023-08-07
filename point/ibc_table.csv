@@ -3,3 +3,4 @@ point_10687-1, 07-tendermint-1, connection-0, channel-0, transfer, cosmoshub-4, 
 point_10687-1, 07-tendermint-2, connection-1, channel-1, transfer, thanos-1, 07-tendermint-1, connection-1, channel-1, transfer
 point_10687-1, 07-tendermint-2, connection-3, channel-2, transfer, thanos-1, 07-tendermint-1, connection-2, channel-2, transfer
 point_10687-1, 07-tendermint-2, connection-4, channel-3, transfer, thanos-1, 07-tendermint-1, connection-3, channel-3, transfer
+point_10687-1, 07-tendermint-4, connection-8, channel-4, transfer, thor-1, 07-tendermint-4, connection-1, channel-0, transfer
