@@ -1,1 +1,4 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+coreum-mainnet-1, 07-tendermint-1, connection-1, channel-0, transfer, osmosis-1, 07-tendermint-2924, connection-2422, channel-2169, transfer
+coreum-mainnet-1, 07-tendermint-2, connection-2, channel-1, transfer, osmosis-1, 07-tendermint-2928, connection-2425, channel-2187, transfer
+coreum-mainnet-1, 07-tendermint-3, connection-3, channel-2, transfer, osmosis-1, 07-tendermint-2929, connection-2426, channel-2188, transfer
