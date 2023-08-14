@@ -1,5 +1,4 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
-evmos_9001-2, 07-tendermint-14, connection-8, channel-42, icahost, juno-1, 07-tendermint-148, connection-96, channel-207, wasm.juno1xscn857dny0n9yxnf6macnnkgkfslahnue7jw84dgra4xf73efdq6nppnq
 evmos_9001-2, 07-tendermint-99, connection-57, channel-44, icahost, local-flowtest-2, 07-tendermint-0, connection-0, channel-2, icacontroller-evmos_9001-2.FEE
 evmos_9001-2, 07-tendermint-99, connection-57, channel-45, icahost, local-flowtest-2, 07-tendermint-0, connection-0, channel-1, icacontroller-evmos_9001-2.DELEGATION
 evmos_9001-2, 07-tendermint-99, connection-57, channel-46, icahost, local-flowtest-2, 07-tendermint-0, connection-0, channel-3, icacontroller-evmos_9001-2.WITHDRAWAL
@@ -10,8 +9,9 @@ evmos_9001-2, 07-tendermint-14, connection-8, channel-66, icahost, juno-1, 07-te
 evmos_9001-2, 07-tendermint-77, connection-33, channel-74, icahost, stride-1, 07-tendermint-8, connection-7, channel-84, icacontroller-evmos_9001-2.WITHDRAWAL
 evmos_9001-2, 07-tendermint-77, connection-33, channel-76, icahost, stride-1, 07-tendermint-8, connection-7, channel-88, icacontroller-evmos_9001-2.DELEGATION
 evmos_9001-2, 07-tendermint-109, connection-64, channel-78, icahost, stayking-hub, 07-tendermint-4, connection-1, channel-8, icacontroller-evmos_9001-2.FEE
-evmos_9001-2, 07-tendermint-109, connection-64, channel-79, icahost, stayking-hub, 07-tendermint-4, connection-1, channel-6, icacontroller-evmos_9001-2.DELEGATION
-evmos_9001-2, 07-tendermint-109, connection-64, channel-80, icahost, stayking-hub, 07-tendermint-4, connection-1, channel-7, icacontroller-evmos_9001-2.WITHDRAWAL
+evmos_9001-2, 07-tendermint-109, connection-64, channel-88, icahost, stayking-hub, 07-tendermint-4, connection-1, channel-13, icacontroller-evmos_9001-2.DELEGATION
+evmos_9001-2, 07-tendermint-109, connection-64, channel-89, icahost, stayking-hub, 07-tendermint-4, connection-1, channel-14, icacontroller-evmos_9001-2.WITHDRAWAL
+evmos_9001-2, 07-tendermint-14, connection-8, channel-90, icahost, juno-1, 07-tendermint-148, connection-96, channel-298, wasm.juno1xscn857dny0n9yxnf6macnnkgkfslahnue7jw84dgra4xf73efdq6nppnq
 evmos_9001-2, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-1840, connection-1440, channel-204, transfer
 evmos_9001-2, 07-tendermint-1, connection-1, channel-1, transfer, umee-1, 07-tendermint-47, connection-22, channel-20, transfer
 evmos_9001-2, 07-tendermint-19, connection-13, channel-10, transfer, injective-1, 07-tendermint-112, connection-92, channel-83, transfer
@@ -63,4 +63,5 @@ evmos_9001-2, 07-tendermint-110, connection-65, channel-81, transfer, agoric-3, 
 evmos_9001-2, 07-tendermint-111, connection-66, channel-82, transfer, centauri-1, 07-tendermint-26, connection-14, channel-7, transfer
 evmos_9001-2, 07-tendermint-113, connection-67, channel-83, transfer, kava_2222-10, 07-tendermint-120, connection-157, channel-117, transfer
 evmos_9001-2, 07-tendermint-116, connection-70, channel-85, transfer, agoric-3, 07-tendermint-72, connection-66, channel-57, transfer
+evmos_9001-2, 07-tendermint-117, connection-71, channel-87, transfer, coreum-mainnet-1, 07-tendermint-9, connection-9, channel-8, transfer
 evmos_9001-2, 07-tendermint-18, connection-12, channel-9, transfer, axelar-dojo-1, 07-tendermint-34, connection-18, channel-8, transfer
