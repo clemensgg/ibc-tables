@@ -6,6 +6,10 @@ sommelier-3, 07-tendermint-56, connection-58, channel-55, icahost, rhye-1, 07-te
 sommelier-3, 07-tendermint-56, connection-58, channel-56, icahost, rhye-1, 07-tendermint-16, connection-13, channel-46, icacontroller-sommelier-3.deposit
 sommelier-3, 07-tendermint-56, connection-58, channel-57, icahost, rhye-1, 07-tendermint-16, connection-13, channel-48, icacontroller-sommelier-3.performance
 sommelier-3, 07-tendermint-56, connection-58, channel-58, icahost, rhye-1, 07-tendermint-16, connection-13, channel-47, icacontroller-sommelier-3.withdrawal
+sommelier-3, 07-tendermint-57, connection-59, channel-60, icahost, quicksilver-2, 07-tendermint-79, connection-54, channel-103, icacontroller-sommelier-3.deposit
+sommelier-3, 07-tendermint-57, connection-59, channel-61, icahost, quicksilver-2, 07-tendermint-79, connection-54, channel-104, icacontroller-sommelier-3.withdrawal
+sommelier-3, 07-tendermint-57, connection-59, channel-62, icahost, quicksilver-2, 07-tendermint-79, connection-54, channel-105, icacontroller-sommelier-3.performance
+sommelier-3, 07-tendermint-57, connection-59, channel-63, icahost, quicksilver-2, 07-tendermint-79, connection-54, channel-106, icacontroller-sommelier-3.delegate
 sommelier-3, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-1745, connection-1348, channel-165, transfer
 sommelier-3, 07-tendermint-4, connection-1, channel-1, transfer, injective-1, 07-tendermint-135, connection-108, channel-93, transfer
 sommelier-3, 07-tendermint-18, connection-17, channel-10, transfer, akashnet-2, 07-tendermint-153, connection-134, channel-97, transfer
