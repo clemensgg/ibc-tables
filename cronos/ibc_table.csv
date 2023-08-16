@@ -1,6 +1,8 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 cronosmainnet_25-1, 07-tendermint-1, connection-0, channel-0, transfer, crypto-org-chain-mainnet-1, 07-tendermint-1122, connection-249, channel-44, transfer
 cronosmainnet_25-1, 07-tendermint-2, connection-1, channel-1, transfer, cosmoshub-4, 07-tendermint-499, connection-411, channel-241, transfer
+cronosmainnet_25-1, 07-tendermint-32, connection-16, channel-10, transfer, irishub-1, 07-tendermint-149, connection-113, channel-67, transfer
+cronosmainnet_25-1, 07-tendermint-33, connection-17, channel-11, transfer, kava_2222-10, 07-tendermint-134, connection-169, channel-125, transfer
 cronosmainnet_25-1, 07-tendermint-3, connection-2, channel-2, transfer, columbus-5, 07-tendermint-35, connection-36, channel-22, transfer
 cronosmainnet_25-1, 07-tendermint-5, connection-4, channel-3, transfer, juno-1, 07-tendermint-122, connection-79, channel-54, transfer
 cronosmainnet_25-1, 07-tendermint-7, connection-6, channel-4, transfer, akashnet-2, 07-tendermint-95, connection-64, channel-40, transfer
