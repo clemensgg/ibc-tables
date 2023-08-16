@@ -4,6 +4,8 @@ nois-1, 07-tendermint-1, connection-2, channel-1, transfer, juno-1, 07-tendermin
 nois-1, 07-tendermint-3, connection-3, channel-15, transfer, umee-1, 07-tendermint-185, connection-126, channel-55, transfer
 nois-1, 07-tendermint-4, connection-4, channel-16, transfer, xstaxy-1, 07-tendermint-13, connection-10, channel-3, transfer
 nois-1, 07-tendermint-13, connection-6, channel-17, transfer, injective-1, 07-tendermint-201, connection-184, channel-138, transfer
+nois-1, 07-tendermint-15, connection-9, channel-21, transfer, archway-1, 07-tendermint-22, connection-20, channel-17, transfer
 nois-1, 07-tendermint-1, connection-2, channel-11, wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp, juno-1, 07-tendermint-335, connection-325, channel-248, wasm.juno1avjq06m3l03pl2k8ecvpdhkzrld8s3x48qvhp8merhfjh753vvdskqqs74
 nois-1, 07-tendermint-1, connection-2, channel-2, wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp, juno-1, 07-tendermint-335, connection-325, channel-243, wasm.juno1qr84ktm57q5t02u04ddk5r8s79axdzglad6tfdd9g2xgt4hkh6jsgeq9x2
 nois-1, 07-tendermint-13, connection-6, channel-20, wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp, injective-1, 07-tendermint-201, connection-184, channel-140, wasm.inj1w9g3sk7lk8k0pdtctygupt6f3te7x4thvzz57a
+nois-1, 07-tendermint-15, connection-9, channel-22, wasm.nois1acyc05v6fgcdgj88nmz2t40aex9nlnptqpwp5hf8hwg7rhce9uuqgqz5wp, archway-1, 07-tendermint-22, connection-20, channel-19, wasm.archway10f3aasgsnpv84ymjyld50jayc4ecu267sdpjamauwm8nvxlzex9qj4dkwr
