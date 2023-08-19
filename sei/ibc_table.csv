@@ -2,6 +2,9 @@ CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CL
 pacific-1, 07-tendermint-2, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2790, connection-2288, channel-782, transfer
 pacific-1, 07-tendermint-3, connection-1, channel-1, transfer, cosmoshub-4, 07-tendermint-1140, connection-827, channel-584, transfer
 pacific-1, 07-tendermint-17, connection-10, channel-10, transfer, migaloo-1, 07-tendermint-100, connection-79, channel-52, transfer
+pacific-1, 07-tendermint-18, connection-11, channel-11, transfer, stride-1, 07-tendermint-130, connection-119, channel-149, transfer
+pacific-1, 07-tendermint-21, connection-12, channel-13, transfer, planq_7070-2, 07-tendermint-545, connection-477, channel-59, transfer
+pacific-1, 07-tendermint-22, connection-13, channel-14, transfer, migaloo-1, 07-tendermint-108, connection-84, channel-57, transfer
 pacific-1, 07-tendermint-8, connection-2, channel-2, transfer, axelar-dojo-1, 07-tendermint-151, connection-136, channel-103, transfer
 pacific-1, 07-tendermint-10, connection-4, channel-3, transfer, phoenix-1, 07-tendermint-226, connection-180, channel-158, transfer
 pacific-1, 07-tendermint-14, connection-8, channel-6, transfer, phoenix-1, 07-tendermint-280, connection-195, channel-169, wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce
