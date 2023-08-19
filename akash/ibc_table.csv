@@ -7,6 +7,7 @@ akashnet-2, 07-tendermint-161, connection-141, channel-101, transfer, odin-mainn
 akashnet-2, 07-tendermint-163, connection-144, channel-105, transfer, iov-mainnet-ibc, 07-tendermint-83, connection-65, channel-41, transfer
 akashnet-2, 07-tendermint-164, connection-145, channel-106, transfer, stride-1, 07-tendermint-106, connection-95, channel-111, transfer
 akashnet-2, 07-tendermint-84, connection-58, channel-108, transfer, juno-1, 07-tendermint-80, connection-47, channel-278, wasm.juno1suwdptdd656qnyvnw7rud0df3fl0h7fmzp0m5yvp7znrew9ej0hsc4ns8q
+akashnet-2, 07-tendermint-166, connection-146, channel-109, transfer, archway-1, 07-tendermint-26, connection-28, channel-26, transfer
 akashnet-2, 07-tendermint-44, connection-19, channel-11, transfer, irishub-1, 07-tendermint-23, connection-16, channel-9, transfer
 akashnet-2, 07-tendermint-45, connection-21, channel-12, transfer, sentinelhub-2, 07-tendermint-42, connection-27, channel-6, transfer
 akashnet-2, 07-tendermint-47, connection-22, channel-13, transfer, regen-1, 07-tendermint-20, connection-9, channel-7, transfer
