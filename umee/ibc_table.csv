@@ -1,14 +1,16 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+umee-1, 07-tendermint-64, connection-45, channel-102, icahost, stride-1, 07-tendermint-32, connection-20, channel-147, icacontroller-umee-1.DELEGATION
 umee-1, 07-tendermint-188, connection-129, channel-60, icahost, stride-local-15, 07-tendermint-0, connection-0, channel-4, icacontroller-umee-1.REDEMPTION
 umee-1, 07-tendermint-188, connection-129, channel-62, icahost, stride-local-15, 07-tendermint-0, connection-0, channel-2, icacontroller-umee-1.FEE
 umee-1, 07-tendermint-64, connection-45, channel-65, icahost, stride-1, 07-tendermint-32, connection-20, channel-95, icacontroller-umee-1.REDEMPTION
 umee-1, 07-tendermint-64, connection-45, channel-67, icahost, stride-1, 07-tendermint-32, connection-20, channel-93, icacontroller-umee-1.FEE
 umee-1, 07-tendermint-64, connection-45, channel-92, icahost, stride-1, 07-tendermint-32, connection-20, channel-136, icacontroller-umee-1.WITHDRAWAL
-umee-1, 07-tendermint-64, connection-45, channel-93, icahost, stride-1, 07-tendermint-32, connection-20, channel-135, icacontroller-umee-1.DELEGATION
 umee-1, 07-tendermint-6, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-1805, connection-1410, channel-184, transfer
 umee-1, 07-tendermint-9, connection-1, channel-1, transfer, cosmoshub-4, 07-tendermint-611, connection-473, channel-288, transfer
 umee-1, 07-tendermint-30, connection-10, channel-10, transfer, fetchhub-3, 07-tendermint-8, connection-8, channel-8, transfer
 umee-1, 07-tendermint-232, connection-193, channel-100, transfer, crypto-org-chain-mainnet-1, 07-tendermint-1198, connection-330, channel-89, transfer
+umee-1, 07-tendermint-233, connection-194, channel-103, transfer, migaloo-1, 07-tendermint-103, connection-82, channel-55, transfer
+umee-1, 07-tendermint-234, connection-195, channel-104, transfer, migaloo-1, 07-tendermint-104, connection-83, channel-56, transfer
 umee-1, 07-tendermint-31, connection-11, channel-11, transfer, fetchhub-3, 07-tendermint-9, connection-9, channel-9, transfer
 umee-1, 07-tendermint-32, connection-12, channel-12, transfer, gravity-bridge-3, 07-tendermint-48, connection-57, channel-31, transfer
 umee-1, 07-tendermint-33, connection-13, channel-13, transfer, gravity-bridge-3, 07-tendermint-49, connection-58, channel-32, transfer
