@@ -58,6 +58,10 @@ secret-4, 07-tendermint-164, connection-114, channel-78, transfer, teritori-1, 0
 secret-4, 07-tendermint-165, connection-115, channel-79, transfer, umee-1, 07-tendermint-213, connection-147, channel-85, transfer
 secret-4, 07-tendermint-23, connection-9, channel-8, transfer, juno-1, 07-tendermint-108, connection-68, channel-48, transfer
 secret-4, 07-tendermint-166, connection-116, channel-80, transfer, centauri-1, 07-tendermint-52, connection-21, channel-14, transfer
+secret-4, 07-tendermint-169, connection-119, channel-84, transfer, archway-1, 07-tendermint-24, connection-22, channel-21, transfer
+secret-4, 07-tendermint-169, connection-120, channel-85, transfer, archway-1, 07-tendermint-24, connection-23, channel-22, transfer
+secret-4, 07-tendermint-169, connection-121, channel-86, transfer, archway-1, 07-tendermint-24, connection-24, channel-23, transfer
+secret-4, 07-tendermint-169, connection-122, channel-87, transfer, archway-1, 07-tendermint-24, connection-25, channel-24, transfer
 secret-4, 07-tendermint-2, connection-1, channel-39, wasm.secret180sjm5790gpgw8r3yepq8ulzvj0p5xft8j0lal, osmosis-1, 07-tendermint-1588, connection-1244, channel-474, transfer
 secret-4, 07-tendermint-117, connection-90, channel-58, wasm.secret1nvytjz7t5wakf0ra5y47dfenatwxpggmkwc5ru, axelar-dojo-1, 07-tendermint-94, connection-81, channel-65, transfer
 secret-4, 07-tendermint-118, connection-91, channel-59, wasm.secret1nvytjz7t5wakf0ra5y47dfenatwxpggmkwc5ru, axelar-dojo-1, 07-tendermint-101, connection-86, channel-67, transfer
