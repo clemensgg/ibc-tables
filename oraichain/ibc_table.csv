@@ -1,7 +1,7 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 Oraichain, 07-tendermint-90, connection-55, channel-57, icacontroller-orai10lv5lcj22zfnfqrqyqq73w5nvkjvmqa9a277lhc0vyu2hpm9ngssenvaaq, Oraichain-testnet, 07-tendermint-103, connection-105, channel-100, icahost
 Oraichain, 07-tendermint-90, connection-55, channel-62, icacontroller-orai1cefapqplvdhtzrrpw3l8wfar7v8zz8kz7wtqcfgu69tc3r4lmd8qcxe399, Oraichain-testnet, 07-tendermint-103, connection-105, channel-104, icahost
-Oraichain, 07-tendermint-47, connection-74, channel-128, icacontroller-orai1lf9q8r3e29hmgjeajd2vhr2n2yj7tkwqt4mx7pj4pl4kpz6adw3qmy4q0x, cosmoshub-4, 07-tendermint-651, connection-806, channel-649, icahost
+Oraichain, 07-tendermint-47, connection-74, channel-130, icacontroller-orai1lf9q8r3e29hmgjeajd2vhr2n2yj7tkwqt4mx7pj4pl4kpz6adw3qmy4q0x, cosmoshub-4, 07-tendermint-651, connection-806, channel-657, icahost
 Oraichain, 07-tendermint-98, connection-64, channel-86, icacontroller-orai1lf9q8r3e29hmgjeajd2vhr2n2yj7tkwqt4mx7pj4pl4kpz6adw3qmy4q0x, Oraichain-testnet, 07-tendermint-112, connection-115, channel-121, icahost
 Oraichain, 07-tendermint-101, connection-77, channel-92, icacontroller-orai1lf9q8r3e29hmgjeajd2vhr2n2yj7tkwqt4mx7pj4pl4kpz6adw3qmy4q0x, Oraichain-testnet, 07-tendermint-115, connection-117, channel-126, icahost
 Oraichain, 07-tendermint-102, connection-78, channel-98, icacontroller-orai1lf9q8r3e29hmgjeajd2vhr2n2yj7tkwqt4mx7pj4pl4kpz6adw3qmy4q0x, Oraichain-testnet, 07-tendermint-116, connection-118, channel-129, icahost
@@ -21,6 +21,7 @@ Oraichain, 07-tendermint-45, connection-18, channel-11, transfer, columbus-5, 07
 Oraichain, 07-tendermint-46, connection-19, channel-12, transfer, osmosis-1, 07-tendermint-1877, connection-1462, channel-214, transfer
 Oraichain, 07-tendermint-103, connection-79, channel-125, transfer, Oraichain-testnet, 07-tendermint-120, connection-119, channel-131, transfer
 Oraichain, 07-tendermint-49, connection-21, channel-13, transfer, osmosis-1, 07-tendermint-1882, connection-1464, channel-216, transfer
+Oraichain, 07-tendermint-104, connection-80, channel-131, transfer, phoenix-1, 07-tendermint-323, connection-239, channel-210, transfer
 Oraichain, 07-tendermint-50, connection-23, channel-14, transfer, columbus-5, 07-tendermint-74, connection-62, channel-43, transfer
 Oraichain, 07-tendermint-47, connection-22, channel-15, transfer, cosmoshub-4, 07-tendermint-651, connection-497, channel-301, transfer
 Oraichain, 07-tendermint-51, connection-24, channel-16, transfer, oraibridge-subnet, 07-tendermint-0, connection-0, channel-0, transfer
