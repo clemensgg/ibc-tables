@@ -88,6 +88,13 @@ phoenix-1, 07-tendermint-314, connection-225, channel-192, transfer, umee-1, 07-
 phoenix-1, 07-tendermint-315, connection-228, channel-193, transfer, desmos-mainnet, 07-tendermint-73, connection-41, channel-29, transfer
 phoenix-1, 07-tendermint-3, connection-6, channel-2, transfer, juno-1, 07-tendermint-185, connection-128, channel-86, transfer
 phoenix-1, 07-tendermint-317, connection-233, channel-204, transfer, stafihub-1, 07-tendermint-5, connection-5, channel-9, transfer
+phoenix-1, 07-tendermint-320, connection-235, channel-205, transfer, cheqd-mainnet-1, 07-tendermint-82, connection-59, channel-32, transfer
+phoenix-1, 07-tendermint-321, connection-236, channel-206, transfer, archway-1, 07-tendermint-27, connection-29, channel-27, transfer
+phoenix-1, 07-tendermint-318, connection-237, channel-208, transfer, injective-1, 07-tendermint-206, connection-190, channel-144, transfer
+phoenix-1, 07-tendermint-322, connection-238, channel-209, transfer, pirin-1, 07-tendermint-5, connection-7, channel-466, transfer
+phoenix-1, 07-tendermint-323, connection-239, channel-210, transfer, Oraichain, 07-tendermint-104, connection-80, channel-131, transfer
+phoenix-1, 07-tendermint-325, connection-240, channel-211, transfer, omniflixhub-1, 07-tendermint-48, connection-41, channel-31, transfer
+phoenix-1, 07-tendermint-326, connection-241, channel-212, transfer, stargaze-1, 07-tendermint-286, connection-213, channel-197, transfer
 phoenix-1, 07-tendermint-56, connection-47, channel-25, transfer, stride-1, 07-tendermint-15, connection-11, channel-13, transfer
 phoenix-1, 07-tendermint-4, connection-7, channel-3, transfer, secret-4, 07-tendermint-38, connection-20, channel-16, transfer
 phoenix-1, 07-tendermint-3, connection-6, channel-33, transfer, juno-1, 07-tendermint-185, connection-128, channel-154, wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn
