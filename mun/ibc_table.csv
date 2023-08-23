@@ -1,0 +1,4 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+mun-1, 07-tendermint-0, connection-0, channel-0, transfer, cosmoshub-4, 07-tendermint-1156, connection-878, channel-641, transfer
+mun-1, 07-tendermint-4, connection-3, channel-1, transfer, osmosis-1, 07-tendermint-2896, connection-2408, channel-2012, transfer
+mun-1, 07-tendermint-6, connection-5, channel-2, transfer, kava_2222-10, 07-tendermint-132, connection-167, channel-123, transfer
