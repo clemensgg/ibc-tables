@@ -95,6 +95,10 @@ phoenix-1, 07-tendermint-322, connection-238, channel-209, transfer, pirin-1, 07
 phoenix-1, 07-tendermint-323, connection-239, channel-210, transfer, Oraichain, 07-tendermint-104, connection-80, channel-131, transfer
 phoenix-1, 07-tendermint-325, connection-240, channel-211, transfer, omniflixhub-1, 07-tendermint-48, connection-41, channel-31, transfer
 phoenix-1, 07-tendermint-326, connection-241, channel-212, transfer, stargaze-1, 07-tendermint-286, connection-213, channel-197, transfer
+phoenix-1, 07-tendermint-328, connection-242, channel-213, transfer, agoric-3, 07-tendermint-76, connection-70, channel-61, transfer
+phoenix-1, 07-tendermint-329, connection-243, channel-214, transfer, centauri-1, 07-tendermint-121, connection-44, channel-28, transfer
+phoenix-1, 07-tendermint-324, connection-244, channel-215, transfer, planq_7070-2, 07-tendermint-546, connection-479, channel-60, transfer
+phoenix-1, 07-tendermint-330, connection-245, channel-216, transfer, kava_2222-10, 07-tendermint-139, connection-173, channel-129, transfer
 phoenix-1, 07-tendermint-56, connection-47, channel-25, transfer, stride-1, 07-tendermint-15, connection-11, channel-13, transfer
 phoenix-1, 07-tendermint-4, connection-7, channel-3, transfer, secret-4, 07-tendermint-38, connection-20, channel-16, transfer
 phoenix-1, 07-tendermint-3, connection-6, channel-33, transfer, juno-1, 07-tendermint-185, connection-128, channel-154, wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn
