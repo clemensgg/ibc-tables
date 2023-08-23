@@ -2,3 +2,4 @@ CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CL
 ununifi-beta-v1, 07-tendermint-3, connection-2, channel-0, transfer, cosmoshub-4, 07-tendermint-1149, connection-865, channel-614, transfer
 ununifi-beta-v1, 07-tendermint-4, connection-3, channel-1, transfer, neutron-1, 07-tendermint-20, connection-20, channel-15, transfer
 ununifi-beta-v1, 07-tendermint-5, connection-4, channel-2, transfer, axelar-dojo-1, 07-tendermint-155, connection-140, channel-107, transfer
+ununifi-beta-v1, 07-tendermint-7, connection-5, channel-3, transfer, osmosis-1, 07-tendermint-2942, connection-2432, channel-2516, transfer
