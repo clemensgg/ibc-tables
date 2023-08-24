@@ -119,6 +119,7 @@ juno-1, 07-tendermint-80, connection-47, channel-29, transfer, akashnet-2, 07-te
 juno-1, 07-tendermint-387, connection-379, channel-290, transfer, archway-1, 07-tendermint-18, connection-19, channel-15, transfer
 juno-1, 07-tendermint-7, connection-6, channel-3, transfer, sifchain-devnet-1, 07-tendermint-238, connection-145, channel-129, transfer
 juno-1, 07-tendermint-86, connection-48, channel-30, transfer, akashnet-2, 07-tendermint-90, connection-59, channel-36, transfer
+juno-1, 07-tendermint-390, connection-384, channel-303, transfer, osmo-test-5, 07-tendermint-791, connection-696, channel-1357, transfer
 juno-1, 07-tendermint-87, connection-49, channel-31, transfer, gravity-bridge-3, 07-tendermint-11, connection-11, channel-8, transfer
 juno-1, 07-tendermint-88, connection-50, channel-32, transfer, stargaze-1, 07-tendermint-17, connection-13, channel-7, transfer
 juno-1, 07-tendermint-89, connection-51, channel-33, transfer, core-1, 07-tendermint-49, connection-48, channel-37, transfer
@@ -184,6 +185,7 @@ juno-1, 07-tendermint-335, connection-325, channel-248, wasm.juno1avjq06m3l03pl2
 juno-1, 07-tendermint-216, connection-152, channel-95, wasm.juno1e4sduqq2qyrdd36el2qs88e47yj49taqwx9z7tfpxe3huhkaspds563zyd, band-laozi-testnet5, 07-tendermint-77, connection-72, channel-64, oracle
 juno-1, 07-tendermint-387, connection-379, channel-299, wasm.juno1eexfem97etwfhhc7njx6tdkpafszsagw2hzl4fl7fraa5gwc8crqdpps7a, archway-1, 07-tendermint-18, connection-19, channel-16, transfer
 juno-1, 07-tendermint-387, connection-379, channel-301, wasm.juno1eexfem97etwfhhc7njx6tdkpafszsagw2hzl4fl7fraa5gwc8crqdpps7a, archway-1, 07-tendermint-18, connection-19, channel-18, transfer
+juno-1, 07-tendermint-389, connection-382, channel-302, wasm.juno1eexfem97etwfhhc7njx6tdkpafszsagw2hzl4fl7fraa5gwc8crqdpps7a, archway-1, 07-tendermint-25, connection-27, channel-25, transfer
 juno-1, 07-tendermint-204, connection-143, channel-90, wasm.juno1fsay0zux2vkyrsqpepd08q2vlytrfu7gsqnapsfl9ge8mp6fvx3qf062q9, uni-3, 07-tendermint-83, connection-61, channel-72, wasm.juno1r8k4hf7umksu9w53u4sz0jsla5478am6yxr0mhkuvp00yvtmxexsj8wazt
 juno-1, 07-tendermint-297, connection-266, channel-203, wasm.juno1k5ykz3n6xz2n59epx3hwcd9n9fcev9w3qtfd4046823pvvcl0fqqv0yq7e, local-2, 07-tendermint-1, connection-1, channel-0, transfer
 juno-1, 07-tendermint-0, connection-0, channel-84, wasm.juno1lfqqr07uw6k30axhkxg4lkmrat87hh972swakxz276n2leu9vqusw2ce5a, osmosis-1, 07-tendermint-1457, connection-1142, channel-241, transfer
