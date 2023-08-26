@@ -101,6 +101,7 @@ phoenix-1, 07-tendermint-324, connection-244, channel-215, transfer, planq_7070-
 phoenix-1, 07-tendermint-330, connection-245, channel-216, transfer, kava_2222-10, 07-tendermint-139, connection-173, channel-129, transfer
 phoenix-1, 07-tendermint-331, connection-246, channel-217, transfer, evmos_9001-2, 07-tendermint-39, connection-72, channel-92, transfer
 phoenix-1, 07-tendermint-327, connection-247, channel-218, transfer, akashnet-2, 07-tendermint-167, connection-149, channel-110, transfer
+phoenix-1, 07-tendermint-332, connection-248, channel-219, transfer, canto_7700-1, 07-tendermint-39, connection-33, channel-24, transfer
 phoenix-1, 07-tendermint-56, connection-47, channel-25, transfer, stride-1, 07-tendermint-15, connection-11, channel-13, transfer
 phoenix-1, 07-tendermint-4, connection-7, channel-3, transfer, secret-4, 07-tendermint-38, connection-20, channel-16, transfer
 phoenix-1, 07-tendermint-3, connection-6, channel-33, transfer, juno-1, 07-tendermint-185, connection-128, channel-154, wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn
