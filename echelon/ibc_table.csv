@@ -5,6 +5,7 @@ echelon_3000-3, 07-tendermint-106, connection-28, channel-10, transfer, osmosis-
 echelon_3000-3, 07-tendermint-107, connection-29, channel-11, transfer, osmosis-1, 07-tendermint-2268, connection-1760, channel-403, transfer
 echelon_3000-3, 07-tendermint-110, connection-30, channel-12, transfer, osmosis-1, 07-tendermint-2276, connection-1780, channel-429, transfer
 echelon_3000-3, 07-tendermint-111, connection-31, channel-13, transfer, thanos-1, 07-tendermint-0, connection-0, channel-0, transfer
+echelon_3000-3, 07-tendermint-112, connection-32, channel-14, transfer, thanos-1, 07-tendermint-2, connection-5, channel-4, transfer
 echelon_3000-3, 07-tendermint-29, connection-8, channel-2, transfer, osmosis-1, 07-tendermint-1959, connection-1523, channel-246, transfer
 echelon_3000-3, 07-tendermint-36, connection-12, channel-3, transfer, osmosis-1, 07-tendermint-1965, connection-1526, channel-247, transfer
 echelon_3000-3, 07-tendermint-41, connection-14, channel-4, transfer, osmosis-1, 07-tendermint-1967, connection-1528, channel-248, transfer
