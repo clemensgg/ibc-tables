@@ -28,6 +28,10 @@ stride-1, 07-tendermint-51, connection-32, channel-144, icacontroller-phoenix-1.
 stride-1, 07-tendermint-51, connection-32, channel-59, icacontroller-phoenix-1.FEE, phoenix-1, 07-tendermint-87, connection-72, channel-82, icahost
 stride-1, 07-tendermint-51, connection-32, channel-61, icacontroller-phoenix-1.REDEMPTION, phoenix-1, 07-tendermint-87, connection-72, channel-81, icahost
 stride-1, 07-tendermint-51, connection-32, channel-60, icacontroller-phoenix-1.WITHDRAWAL, phoenix-1, 07-tendermint-87, connection-72, channel-79, icahost
+stride-1, 07-tendermint-131, connection-122, channel-151, icacontroller-sommelier-3.DELEGATION, sommelier-3, 07-tendermint-60, connection-75, channel-72, icahost
+stride-1, 07-tendermint-131, connection-122, channel-152, icacontroller-sommelier-3.FEE, sommelier-3, 07-tendermint-60, connection-75, channel-73, icahost
+stride-1, 07-tendermint-131, connection-122, channel-154, icacontroller-sommelier-3.REDEMPTION, sommelier-3, 07-tendermint-60, connection-75, channel-75, icahost
+stride-1, 07-tendermint-131, connection-122, channel-153, icacontroller-sommelier-3.WITHDRAWAL, sommelier-3, 07-tendermint-60, connection-75, channel-74, icahost
 stride-1, 07-tendermint-30, connection-18, channel-128, icacontroller-stargaze-1.DELEGATION, stargaze-1, 07-tendermint-195, connection-128, channel-179, icahost
 stride-1, 07-tendermint-30, connection-18, channel-21, icacontroller-stargaze-1.FEE, stargaze-1, 07-tendermint-195, connection-128, channel-109, icahost
 stride-1, 07-tendermint-30, connection-18, channel-23, icacontroller-stargaze-1.REDEMPTION, stargaze-1, 07-tendermint-195, connection-128, channel-107, icahost
@@ -65,6 +69,7 @@ stride-1, 07-tendermint-16, connection-12, channel-14, transfer, titan-1, 07-ten
 stride-1, 07-tendermint-129, connection-118, channel-148, transfer, agoric-3, 07-tendermint-74, connection-68, channel-59, transfer
 stride-1, 07-tendermint-130, connection-119, channel-149, transfer, pacific-1, 07-tendermint-18, connection-11, channel-11, transfer
 stride-1, 07-tendermint-21, connection-13, channel-15, transfer, kichain-2, 07-tendermint-31, connection-26, channel-20, transfer
+stride-1, 07-tendermint-131, connection-122, channel-150, transfer, sommelier-3, 07-tendermint-60, connection-75, channel-71, transfer
 stride-1, 07-tendermint-26, connection-14, channel-16, transfer, evmos_9001-2, 07-tendermint-80, connection-36, channel-27, transfer
 stride-1, 07-tendermint-27, connection-15, channel-17, transfer, regen-1, 07-tendermint-101, connection-86, channel-49, transfer
 stride-1, 07-tendermint-28, connection-16, channel-18, transfer, kaiyo-1, 07-tendermint-40, connection-34, channel-35, transfer
