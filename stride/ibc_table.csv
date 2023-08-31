@@ -40,6 +40,7 @@ stride-1, 07-tendermint-32, connection-20, channel-147, icacontroller-umee-1.DEL
 stride-1, 07-tendermint-32, connection-20, channel-93, icacontroller-umee-1.FEE, umee-1, 07-tendermint-64, connection-45, channel-67, icahost
 stride-1, 07-tendermint-32, connection-20, channel-95, icacontroller-umee-1.REDEMPTION, umee-1, 07-tendermint-64, connection-45, channel-65, icahost
 stride-1, 07-tendermint-32, connection-20, channel-136, icacontroller-umee-1.WITHDRAWAL, umee-1, 07-tendermint-64, connection-45, channel-92, icahost
+stride-1, 07-tendermint-125, connection-113, channel-155, icahost, neutron-1, 07-tendermint-18, connection-15, channel-20, icacontroller-neutron19d9064hn3eddx43eljlz0c3ewqa957vx4sqzwa84ecqmgfnu4x6sedukqn.stride-ica
 stride-1, 07-tendermint-0, connection-0, channel-0, transfer, cosmoshub-4, 07-tendermint-913, connection-635, channel-391, transfer
 stride-1, 07-tendermint-9, connection-8, channel-10, transfer, secret-4, 07-tendermint-73, connection-38, channel-35, transfer
 stride-1, 07-tendermint-96, connection-84, channel-101, transfer, irishub-1, 07-tendermint-139, connection-104, channel-62, transfer
