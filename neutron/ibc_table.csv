@@ -1,5 +1,7 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 neutron-1, 07-tendermint-0, connection-0, channel-0, consumer, cosmoshub-4, 07-tendermint-1119, connection-809, channel-568, provider
+neutron-1, 07-tendermint-18, connection-15, channel-20, icacontroller-neutron19d9064hn3eddx43eljlz0c3ewqa957vx4sqzwa84ecqmgfnu4x6sedukqn.stride-ica, stride-1, 07-tendermint-125, connection-113, channel-155, icahost
+neutron-1, 07-tendermint-0, connection-0, channel-21, icacontroller-neutron1grlmxrpzmspjj63n52eee8d3qjujgdy5ctauplvs77y7f37hrahqpwmppa.gaia-ica, cosmoshub-4, 07-tendermint-1119, connection-809, channel-662, icahost
 neutron-1, 07-tendermint-0, connection-0, channel-1, transfer, cosmoshub-4, 07-tendermint-1119, connection-809, channel-569, transfer
 neutron-1, 07-tendermint-19, connection-18, channel-10, transfer, osmosis-1, 07-tendermint-2823, connection-2338, channel-874, transfer
 neutron-1, 07-tendermint-0, connection-19, channel-13, transfer, cosmoshub-4, 07-tendermint-1119, connection-832, channel-608, transfer
