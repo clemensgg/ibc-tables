@@ -1,6 +1,7 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 noble-1, 07-tendermint-1, connection-1, channel-0, transfer, crescent-1, 07-tendermint-68, connection-63, channel-38, transfer
 noble-1, 07-tendermint-0, connection-2, channel-1, transfer, osmosis-1, 07-tendermint-2704, connection-2241, channel-750, transfer
+noble-1, 07-tendermint-15, connection-24, channel-10, transfer, injective-1, 07-tendermint-210, connection-193, channel-146, transfer
 noble-1, 07-tendermint-2, connection-4, channel-2, transfer, kaiyo-1, 07-tendermint-95, connection-65, channel-62, transfer
 noble-1, 07-tendermint-3, connection-8, channel-3, transfer, juno-1, 07-tendermint-334, connection-322, channel-224, transfer
 noble-1, 07-tendermint-4, connection-12, channel-4, transfer, cosmoshub-4, 07-tendermint-1116, connection-790, channel-536, transfer
