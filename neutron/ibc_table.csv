@@ -11,6 +11,7 @@ neutron-1, 07-tendermint-29, connection-22, channel-17, transfer, centauri-1, 07
 neutron-1, 07-tendermint-31, connection-23, channel-18, transfer, stargaze-1, 07-tendermint-283, connection-211, channel-191, transfer
 neutron-1, 07-tendermint-37, connection-28, channel-19, transfer, pacific-1, 07-tendermint-27, connection-16, channel-15, transfer
 neutron-1, 07-tendermint-1, connection-1, channel-2, transfer, axelar-dojo-1, 07-tendermint-123, connection-110, channel-78, transfer
+neutron-1, 07-tendermint-12, connection-9, channel-25, transfer, phoenix-1, 07-tendermint-274, connection-192, channel-229, transfer
 neutron-1, 07-tendermint-2, connection-2, channel-3, transfer, kaiyo-1, 07-tendermint-112, connection-82, channel-75, transfer
 neutron-1, 07-tendermint-11, connection-8, channel-4, transfer, migaloo-1, 07-tendermint-55, connection-43, channel-27, transfer
 neutron-1, 07-tendermint-12, connection-9, channel-5, transfer, phoenix-1, 07-tendermint-274, connection-192, channel-167, wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce
