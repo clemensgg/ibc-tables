@@ -142,3 +142,7 @@ stargaze-1, 07-tendermint-192, connection-125, channel-84, transfer, local-test-
 stargaze-1, 07-tendermint-19, connection-15, channel-9, transfer, gravity-bridge-3, 07-tendermint-12, connection-12, channel-9, transfer
 stargaze-1, 07-tendermint-193, connection-126, channel-92, transfer, local-test-9, 07-tendermint-0, connection-0, channel-0, transfer
 stargaze-1, 07-tendermint-194, connection-127, channel-97, transfer, local-test-10, 07-tendermint-0, connection-0, channel-0, transfer
+stargaze-1, 07-tendermint-13, connection-11, channel-199, wasm.stars17vst9ew3vhddgj4je82vdn0evv3dc9gyf0yapjydt9fzqn8c4ecqyunk79, juno-1, 07-tendermint-44, connection-30, channel-304, wasm.juno13yxra87ltv7gva3z35ktxt0nx3n5tp8ngtkj2p2zxj0qg6n906fs00wgvf
+stargaze-1, 07-tendermint-0, connection-0, channel-202, wasm.stars1fr7ccflazj6mfmpt8z2st424kxkpc6uw7t65sx80q5rp0s8kug6sj34avq, osmosis-1, 07-tendermint-1562, connection-1223, channel-2659, wasm.osmo1u44zc3vq37npnctdwd35n7ms3wtagfhdvdnpscq86pk6h9rmzpcsdqe992
+stargaze-1, 07-tendermint-13, connection-11, channel-201, wasm.stars1g9u4zmjj3xmu2me3vq07fqedqp7t0d9xjp3tqff9r2awwc2k8wvq7d39he, juno-1, 07-tendermint-44, connection-30, channel-305, wasm.juno1vupyxq9q2mmg5jjcd4cl0ujav8a3xn0a9ahyhtmj0zjaje2gfejsyvyf3z
+stargaze-1, 07-tendermint-0, connection-0, channel-198, wasm.stars1p4f96xz9pz8264ccgapz2l6xu82l5cj0jvvng0ltlm3dw2sxqdrs43acfl, osmosis-1, 07-tendermint-1562, connection-1223, channel-2642, wasm.osmo13w3073l43gwxw77tv2np2katn3jrvet87unyfevg8nrj755m3x7q0aaw63
