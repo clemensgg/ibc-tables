@@ -1,5 +1,7 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 Oraichain, 07-tendermint-90, connection-55, channel-57, icacontroller-orai10lv5lcj22zfnfqrqyqq73w5nvkjvmqa9a277lhc0vyu2hpm9ngssenvaaq, Oraichain-testnet, 07-tendermint-103, connection-105, channel-100, icahost
+Oraichain, 07-tendermint-49, connection-21, channel-140, icacontroller-orai13rt272vzz9svfr80550ue54n9p92alm449s0sfccyu0e4l9t4jfsf5jq09, osmosis-1, 07-tendermint-1882, connection-1464, channel-2728, icahost
+Oraichain, 07-tendermint-49, connection-21, channel-141, icacontroller-orai19qslhhj6kj7vtewyt3djgjwxt08y2rllqhzwdelwr7szuu5hlj8sgrmmd5, osmosis-1, 07-tendermint-1882, connection-1464, channel-2729, icahost
 Oraichain, 07-tendermint-90, connection-55, channel-62, icacontroller-orai1cefapqplvdhtzrrpw3l8wfar7v8zz8kz7wtqcfgu69tc3r4lmd8qcxe399, Oraichain-testnet, 07-tendermint-103, connection-105, channel-104, icahost
 Oraichain, 07-tendermint-49, connection-21, channel-136, icacontroller-orai1kwu560q8cswhwysm96us4la460x7gxkqsyda8v, osmosis-1, 07-tendermint-1882, connection-1464, channel-2671, icahost
 Oraichain, 07-tendermint-47, connection-74, channel-133, icacontroller-orai1lf9q8r3e29hmgjeajd2vhr2n2yj7tkwqt4mx7pj4pl4kpz6adw3qmy4q0x, cosmoshub-4, 07-tendermint-651, connection-806, channel-668, icahost
