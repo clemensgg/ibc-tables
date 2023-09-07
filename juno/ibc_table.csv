@@ -121,6 +121,7 @@ juno-1, 07-tendermint-7, connection-6, channel-3, transfer, sifchain-devnet-1, 0
 juno-1, 07-tendermint-86, connection-48, channel-30, transfer, akashnet-2, 07-tendermint-90, connection-59, channel-36, transfer
 juno-1, 07-tendermint-390, connection-384, channel-303, transfer, osmo-test-5, 07-tendermint-791, connection-696, channel-1357, transfer
 juno-1, 07-tendermint-393, connection-386, channel-306, transfer, weave-beta-v2, 07-tendermint-10, connection-11, channel-2, transfer
+juno-1, 07-tendermint-389, connection-382, channel-307, transfer, archway-1, 07-tendermint-25, connection-27, channel-28, transfer
 juno-1, 07-tendermint-87, connection-49, channel-31, transfer, gravity-bridge-3, 07-tendermint-11, connection-11, channel-8, transfer
 juno-1, 07-tendermint-88, connection-50, channel-32, transfer, stargaze-1, 07-tendermint-17, connection-13, channel-7, transfer
 juno-1, 07-tendermint-89, connection-51, channel-33, transfer, core-1, 07-tendermint-49, connection-48, channel-37, transfer
