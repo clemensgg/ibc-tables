@@ -19,6 +19,7 @@ archway-1, 07-tendermint-24, connection-25, channel-24, transfer, secret-4, 07-t
 archway-1, 07-tendermint-25, connection-27, channel-25, transfer, juno-1, 07-tendermint-389, connection-382, channel-302, wasm.juno1eexfem97etwfhhc7njx6tdkpafszsagw2hzl4fl7fraa5gwc8crqdpps7a
 archway-1, 07-tendermint-26, connection-28, channel-26, transfer, akashnet-2, 07-tendermint-166, connection-146, channel-109, transfer
 archway-1, 07-tendermint-27, connection-29, channel-27, transfer, phoenix-1, 07-tendermint-321, connection-236, channel-206, transfer
+archway-1, 07-tendermint-25, connection-27, channel-28, transfer, juno-1, 07-tendermint-389, connection-382, channel-307, transfer
 archway-1, 07-tendermint-5, connection-4, channel-3, transfer, jackal-1, 07-tendermint-59, connection-49, channel-40, transfer
 archway-1, 07-tendermint-6, connection-5, channel-4, transfer, umee-1, 07-tendermint-228, connection-190, channel-97, transfer
 archway-1, 07-tendermint-7, connection-6, channel-5, transfer, core-1, 07-tendermint-149, connection-185, channel-113, transfer
