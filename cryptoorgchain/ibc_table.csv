@@ -32,7 +32,12 @@ crypto-org-chain-mainnet-1, 07-tendermint-1122, connection-249, channel-44, tran
 crypto-org-chain-mainnet-1, 06-solomachine-1124, connection-251, channel-46, transfer, null, 07-tendermint-M9qx, connection-20XZ, channel-JEnb, transfer
 crypto-org-chain-mainnet-1, 07-tendermint-1125, connection-252, channel-47, transfer, sifchain-testnet-1, 07-tendermint-31, connection-18, channel-13, transfer
 crypto-org-chain-mainnet-1, 07-tendermint-1126, connection-253, channel-48, transfer, sifchain-testnet-1, 07-tendermint-12, connection-8, channel-7, transfer
+crypto-org-chain-mainnet-1, 07-tendermint-33, connection-12, channel-49, transfer, osmosis-1, 07-tendermint-4, connection-5, channel-5277, transfer
 crypto-org-chain-mainnet-1, 07-tendermint-18, connection-5, channel-5, transfer, devnet-1, 07-tendermint-0, connection-0, channel-0, transfer
+crypto-org-chain-mainnet-1, 07-tendermint-33, connection-12, channel-50, transfer, osmosis-1, 07-tendermint-4, connection-5, channel-5278, transfer
+crypto-org-chain-mainnet-1, 07-tendermint-33, connection-12, channel-51, transfer, osmosis-1, 07-tendermint-4, connection-5, channel-5275, transfer
+crypto-org-chain-mainnet-1, 07-tendermint-33, connection-12, channel-52, transfer, osmosis-1, 07-tendermint-4, connection-5, channel-5274, transfer
+crypto-org-chain-mainnet-1, 07-tendermint-33, connection-12, channel-53, transfer, osmosis-1, 07-tendermint-4, connection-5, channel-5276, transfer
 crypto-org-chain-mainnet-1, 07-tendermint-1127, connection-254, channel-54, transfer, omniflixhub-1, 07-tendermint-20, connection-18, channel-11, transfer
 crypto-org-chain-mainnet-1, 07-tendermint-1130, connection-257, channel-55, transfer, omniflixhub-1, 07-tendermint-34, connection-26, channel-19, transfer
 crypto-org-chain-mainnet-1, 07-tendermint-1132, connection-258, channel-56, transfer, kaiyo-1, 07-tendermint-8, connection-4, channel-6, transfer
