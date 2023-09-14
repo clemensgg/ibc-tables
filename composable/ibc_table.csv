@@ -26,6 +26,8 @@ centauri-1, 07-tendermint-6, connection-6, channel-3, transfer, osmosis-1, 07-te
 centauri-1, 07-tendermint-125, connection-47, channel-31, transfer, migaloo-1, 07-tendermint-110, connection-87, channel-58, transfer
 centauri-1, 07-tendermint-126, connection-48, channel-32, transfer, regen-1, 07-tendermint-174, connection-146, channel-146, transfer
 centauri-1, 07-tendermint-127, connection-49, channel-33, transfer, core-1, 07-tendermint-151, connection-188, channel-118, transfer
+centauri-1, 07-tendermint-128, connection-50, channel-34, transfer, akashnet-2, 07-tendermint-169, connection-155, channel-112, transfer
+centauri-1, 07-tendermint-129, connection-51, channel-35, transfer, noble-1, 07-tendermint-18, connection-27, channel-13, transfer
 centauri-1, 07-tendermint-7, connection-7, channel-4, transfer, cosmoshub-4, 07-tendermint-1150, connection-871, channel-617, transfer
 centauri-1, 07-tendermint-14, connection-8, channel-5, transfer, stride-1, 07-tendermint-126, connection-116, channel-134, transfer
 centauri-1, 07-tendermint-25, connection-13, channel-6, transfer, stargaze-1, 07-tendermint-279, connection-207, channel-184, transfer
