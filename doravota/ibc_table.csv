@@ -1,0 +1,2 @@
+CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+vota-ash, 07-tendermint-0, connection-1, channel-0, transfer, osmosis-1, 07-tendermint-2959, connection-2454, channel-2694, transfer
