@@ -1,6 +1,7 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 desmos-mainnet, 07-tendermint-2, connection-2, channel-0, ibc-profiles, laozi-mainnet, 07-tendermint-20, connection-17, channel-11, oracle
 desmos-mainnet, 07-tendermint-3, connection-3, channel-1, ibc-profiles, laozi-mainnet, 07-tendermint-21, connection-20, channel-12, oracle
+desmos-mainnet, 07-tendermint-74, connection-42, channel-32, ibc-profiles, laozi-mainnet, 07-tendermint-160, connection-139, channel-157, oracle
 desmos-mainnet, 07-tendermint-19, connection-14, channel-7, ibc-profiles, laozi-mainnet, 07-tendermint-140, connection-119, channel-135, oracle
 desmos-mainnet, 07-tendermint-21, connection-15, channel-8, ibc-profiles, laozi-mainnet, 07-tendermint-141, connection-120, channel-136, oracle
 desmos-mainnet, 07-tendermint-23, connection-16, channel-9, ibc-profiles, laozi-mainnet, 07-tendermint-149, connection-126, channel-142, oracle
