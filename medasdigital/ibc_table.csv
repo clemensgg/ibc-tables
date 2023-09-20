@@ -1,6 +1,8 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 medasdigital-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2372, connection-1869, channel-519, transfer
 medasdigital-1, 07-tendermint-1, connection-1, channel-1, transfer, chihuahua-1, 07-tendermint-103, connection-65, channel-33, transfer
+medasdigital-1, 07-tendermint-11, connection-10, channel-10, transfer, sentinelhub-2, 07-tendermint-180, connection-147, channel-86, transfer
+medasdigital-1, 07-tendermint-12, connection-11, channel-11, transfer, sentinelhub-2, 07-tendermint-181, connection-148, channel-87, transfer
 medasdigital-1, 07-tendermint-2, connection-2, channel-2, transfer, cerberus-chain-1, 07-tendermint-27, connection-12, channel-12, transfer
 medasdigital-1, 07-tendermint-3, connection-3, channel-3, transfer, sifchain-1, 07-tendermint-199, connection-111, channel-77, transfer
 medasdigital-1, 07-tendermint-4, connection-4, channel-4, transfer, sentinelhub-2, 07-tendermint-110, connection-87, channel-60, transfer
