@@ -41,6 +41,7 @@ laozi-mainnet, 07-tendermint-155, connection-133, channel-151, oracle, pion-1, 0
 laozi-mainnet, 07-tendermint-156, connection-136, channel-154, oracle, pion-1, 07-tendermint-7, connection-6, channel-7, wasm.neutron1p2zw3p4yz20fspd3frszphma8u6pttgg34q79uu4eeffzyay3k6q4xpf75
 laozi-mainnet, 07-tendermint-157, connection-137, channel-155, oracle, neutron-gamma-1, 07-tendermint-1, connection-1, channel-2, wasm.neutron1pg4dxed60q3w5a6dy8ca84q7wa7d9qm0amxw5j7zmwcpvgefg6xsh7njed
 laozi-mainnet, 07-tendermint-158, connection-138, channel-156, oracle, neutron-1, 07-tendermint-13, connection-11, channel-7, wasm.neutron1lxansfc8vkujy997e3xksd3ugsppv6a9jt32pjtgaxr0zkcnkznq67z3ax
+laozi-mainnet, 07-tendermint-160, connection-139, channel-157, oracle, desmos-mainnet, 07-tendermint-74, connection-42, channel-32, ibc-profiles
 laozi-mainnet, 07-tendermint-26, connection-25, channel-16, oracle, injective-1, 07-tendermint-24, connection-19, channel-12, oracle
 laozi-mainnet, 07-tendermint-27, connection-26, channel-17, oracle, injective-1, 07-tendermint-25, connection-20, channel-13, oracle
 laozi-mainnet, 07-tendermint-28, connection-27, channel-18, oracle, injective-1, 07-tendermint-26, connection-21, channel-14, oracle
