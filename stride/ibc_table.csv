@@ -22,6 +22,7 @@ stride-1, 07-tendermint-31, connection-19, channel-28, icacontroller-juno-1.REDE
 stride-1, 07-tendermint-31, connection-19, channel-27, icacontroller-juno-1.WITHDRAWAL, juno-1, 07-tendermint-263, connection-205, channel-142, icahost
 stride-1, 07-tendermint-1, connection-2, channel-42, icacontroller-osmosis-1.DELEGATION, osmosis-1, 07-tendermint-2119, connection-1657, channel-456, icahost
 stride-1, 07-tendermint-1, connection-2, channel-43, icacontroller-osmosis-1.FEE, osmosis-1, 07-tendermint-2119, connection-1657, channel-451, icahost
+stride-1, 07-tendermint-1, connection-2, channel-158, icacontroller-osmosis-1.ORACLE, osmosis-1, 07-tendermint-2119, connection-1657, channel-5469, icahost
 stride-1, 07-tendermint-1, connection-2, channel-45, icacontroller-osmosis-1.REDEMPTION, osmosis-1, 07-tendermint-2119, connection-1657, channel-441, icahost
 stride-1, 07-tendermint-1, connection-2, channel-44, icacontroller-osmosis-1.WITHDRAWAL, osmosis-1, 07-tendermint-2119, connection-1657, channel-430, icahost
 stride-1, 07-tendermint-51, connection-32, channel-144, icacontroller-phoenix-1.DELEGATION, phoenix-1, 07-tendermint-87, connection-72, channel-202, icahost
