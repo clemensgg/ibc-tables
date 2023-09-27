@@ -16,6 +16,8 @@ neutron-1, 07-tendermint-19, connection-18, channel-27, transfer, osmosis-1, 07-
 neutron-1, 07-tendermint-19, connection-18, channel-28, transfer, osmosis-1, 07-tendermint-2823, connection-2338, channel-873, transfer
 neutron-1, 07-tendermint-19, connection-18, channel-29, transfer, osmosis-1, 07-tendermint-2823, connection-2338, channel-871, transfer
 neutron-1, 07-tendermint-2, connection-2, channel-3, transfer, kaiyo-1, 07-tendermint-112, connection-82, channel-75, transfer
+neutron-1, 07-tendermint-40, connection-31, channel-30, transfer, noble-1, 07-tendermint-25, connection-34, channel-18, transfer
+neutron-1, 07-tendermint-41, connection-32, channel-31, transfer, ununifi-beta-v1, 07-tendermint-12, connection-9, channel-9, transfer
 neutron-1, 07-tendermint-11, connection-8, channel-4, transfer, migaloo-1, 07-tendermint-55, connection-43, channel-27, transfer
 neutron-1, 07-tendermint-12, connection-9, channel-5, transfer, phoenix-1, 07-tendermint-274, connection-192, channel-167, wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce
 neutron-1, 07-tendermint-18, connection-15, channel-8, transfer, stride-1, 07-tendermint-125, connection-113, channel-123, transfer
