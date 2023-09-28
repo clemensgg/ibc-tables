@@ -4,5 +4,7 @@ wormchain, 07-tendermint-8, connection-4, channel-3, transfer, osmosis-1, 07-ten
 wormchain, 07-tendermint-9, connection-5, channel-4, transfer, evmos_9001-2, 07-tendermint-118, connection-76, channel-93, transfer
 wormchain, 07-tendermint-10, connection-6, channel-5, transfer, evmos_9001-2, 07-tendermint-119, connection-77, channel-94, transfer
 wormchain, 07-tendermint-11, connection-7, channel-6, transfer, kaiyo-1, 07-tendermint-150, connection-115, channel-110, transfer
+wormchain, 07-tendermint-11, connection-7, channel-7, transfer, kaiyo-1, 07-tendermint-150, connection-115, channel-111, transfer
+wormchain, 07-tendermint-12, connection-8, channel-8, transfer, kaiyo-1, 07-tendermint-152, connection-116, channel-112, transfer
 wormchain, 07-tendermint-4, connection-1, channel-0, wasm.wormhole1wkwy0xh89ksdgj9hr347dyd2dw7zesmtrue6kfzyml4vdtz6e5ws2y050r, pacific-1, 07-tendermint-12, connection-6, channel-4, wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn
 wormchain, 07-tendermint-6, connection-2, channel-1, wasm.wormhole1wkwy0xh89ksdgj9hr347dyd2dw7zesmtrue6kfzyml4vdtz6e5ws2y050r, pacific-1, 07-tendermint-13, connection-7, channel-5, wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn
