@@ -85,6 +85,8 @@ akashnet-2, 07-tendermint-18, connection-11, channel-9, transfer, osmosis-1, 07-
 akashnet-2, 07-tendermint-147, connection-128, channel-90, transfer, migaloo-1, 07-tendermint-46, connection-34, channel-24, transfer
 akashnet-2, 07-tendermint-149, connection-129, channel-91, transfer, core-1, 07-tendermint-110, connection-151, channel-88, transfer
 akashnet-2, 07-tendermint-151, connection-130, channel-93, transfer, regen-1, 07-tendermint-125, connection-108, channel-111, transfer
+akashnet-2, 07-tendermint-152, connection-131, channel-94, transfer, sentinelhub-2, 07-tendermint-136, connection-112, channel-88, transfer
+akashnet-2, 07-tendermint-152, connection-131, channel-95, transfer, sentinelhub-2, 07-tendermint-136, connection-112, channel-89, transfer
 akashnet-2, 07-tendermint-152, connection-131, channel-96, transfer, sentinelhub-2, 07-tendermint-136, connection-112, channel-75, transfer
 akashnet-2, 07-tendermint-153, connection-134, channel-97, transfer, sommelier-3, 07-tendermint-18, connection-17, channel-10, transfer
 akashnet-2, 07-tendermint-155, connection-135, channel-98, transfer, vidulum-1, 07-tendermint-12, connection-20, channel-17, transfer
