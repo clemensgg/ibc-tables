@@ -1,1 +1,2 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+sgenet-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosis-1, 07-tendermint-2972, connection-2468, channel-5485, transfer
