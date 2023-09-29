@@ -1,6 +1,7 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 pio-mainnet-1, 07-tendermint-10, connection-0, channel-0, transfer, cosmoshub-4, 07-tendermint-218, connection-240, channel-127, transfer
 pio-mainnet-1, 07-tendermint-16, connection-1, channel-1, transfer, cosmoshub-4, 07-tendermint-523, connection-430, channel-251, transfer
+pio-mainnet-1, 07-tendermint-36, connection-13, channel-10, transfer, noble-1, 07-tendermint-30, connection-37, channel-20, transfer
 pio-mainnet-1, 07-tendermint-18, connection-2, channel-2, transfer, osmosis-1, 07-tendermint-1671, connection-1282, channel-116, transfer
 pio-mainnet-1, 07-tendermint-19, connection-3, channel-3, transfer, osmosis-1, 07-tendermint-1672, connection-1284, channel-117, transfer
 pio-mainnet-1, 07-tendermint-20, connection-4, channel-4, transfer, osmosis-1, 07-tendermint-1706, connection-1301, channel-125, transfer
