@@ -1,5 +1,5 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
-regen-1, 07-tendermint-113, connection-102, channel-150, icahost, quicksilver-2, 07-tendermint-16, connection-9, channel-110, icacontroller-regen-1.delegate
+regen-1, 07-tendermint-113, connection-102, channel-156, icahost, quicksilver-2, 07-tendermint-16, connection-9, channel-115, icacontroller-regen-1.delegate
 regen-1, 07-tendermint-112, connection-101, channel-56, icahost, testy-1, 07-tendermint-2, connection-0, channel-2, icacontroller-regen-1.withdrawal
 regen-1, 07-tendermint-112, connection-101, channel-57, icahost, testy-1, 07-tendermint-2, connection-0, channel-3, icacontroller-regen-1.performance
 regen-1, 07-tendermint-112, connection-101, channel-59, icahost, testy-1, 07-tendermint-2, connection-0, channel-1, icacontroller-regen-1.deposit
@@ -51,6 +51,7 @@ regen-1, 07-tendermint-173, connection-145, channel-145, transfer, centauri-1, 0
 regen-1, 07-tendermint-174, connection-146, channel-146, transfer, centauri-1, 07-tendermint-126, connection-48, channel-32, transfer
 regen-1, 07-tendermint-175, connection-147, channel-147, transfer, phoenix-1, 07-tendermint-307, connection-258, channel-226, transfer
 regen-1, 07-tendermint-31, connection-29, channel-15, transfer, sentinelhub-2, 07-tendermint-56, connection-32, channel-11, transfer
+regen-1, 07-tendermint-176, connection-148, channel-158, transfer, umee-1, 07-tendermint-239, connection-200, channel-107, transfer
 regen-1, 07-tendermint-37, connection-30, channel-16, transfer, iov-mainnet-ibc, 07-tendermint-31, connection-19, channel-5, transfer
 regen-1, 07-tendermint-7, connection-2, channel-2, transfer, cosmoshub-4, 07-tendermint-348, connection-307, channel-163, transfer
 regen-1, 07-tendermint-61, connection-52, channel-26, transfer, sifchain-devnet-1, 07-tendermint-226, connection-133, channel-121, transfer
