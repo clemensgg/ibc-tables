@@ -56,3 +56,5 @@ migaloo-1, 07-tendermint-8, connection-13, channel-7, transfer, chihuahua-1, 07-
 migaloo-1, 07-tendermint-16, connection-19, channel-8, transfer, kaiyo-1, 07-tendermint-82, connection-59, channel-58, transfer
 migaloo-1, 07-tendermint-20, connection-20, channel-9, transfer, axelar-dojo-1, 07-tendermint-96, connection-82, channel-66, transfer
 migaloo-1, 07-tendermint-0, connection-0, channel-18, wasm.migaloo10l0ltapgnd746a6rgty5vkd33tex54ddvf2eyu3qas0050q7yehsuy3j5g, phoenix-1, 07-tendermint-105, connection-93, channel-149, wasm.terra1euhckzh8rs2sk5gc7z0t472fz7cmxt6wnwgl784t5npggwsmxemqq43uf7
+migaloo-1, 07-tendermint-1, connection-1, channel-62, wasm.migaloo1gd9el0def0760dlmpjy9xdfg589fvd87pe6thpy3wrk6myuc73mqur79we, juno-1, 07-tendermint-310, connection-282, channel-319, wasm.juno1hg0pqzmckssyu2v8y9ukm6k7z2y2kuu2ynvkz3th5wx5urymej3q7xy8wx
+migaloo-1, 07-tendermint-1, connection-1, channel-61, wasm.migaloo1ynu43925sz4g67kpn35tr7nh732ws7npqsmdv8frtwtvl83qqh3skzgapz, juno-1, 07-tendermint-310, connection-282, channel-317, wasm.juno1hg0pqzmckssyu2v8y9ukm6k7z2y2kuu2ynvkz3th5wx5urymej3q7xy8wx
