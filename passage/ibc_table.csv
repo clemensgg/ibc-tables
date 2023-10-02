@@ -1,2 +1,3 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
 passage-2, 07-tendermint-1, connection-1, channel-0, transfer, osmosis-1, 07-tendermint-2935, connection-2430, channel-2494, transfer
+passage-2, 07-tendermint-2, connection-2, channel-1, transfer, chihuahua-1, 07-tendermint-178, connection-120, channel-64, transfer
