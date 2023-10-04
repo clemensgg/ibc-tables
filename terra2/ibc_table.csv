@@ -1,5 +1,4 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
-phoenix-1, 07-tendermint-87, connection-72, channel-202, icahost, stride-1, 07-tendermint-51, connection-32, channel-144, icacontroller-phoenix-1.DELEGATION
 phoenix-1, 07-tendermint-100, connection-88, channel-73, icahost, local-test-1, 07-tendermint-0, connection-0, channel-3, icacontroller-phoenix-1.WITHDRAWAL
 phoenix-1, 07-tendermint-100, connection-88, channel-74, icahost, local-test-1, 07-tendermint-0, connection-0, channel-4, icacontroller-phoenix-1.REDEMPTION
 phoenix-1, 07-tendermint-100, connection-88, channel-75, icahost, local-test-1, 07-tendermint-0, connection-0, channel-2, icacontroller-phoenix-1.FEE
@@ -57,7 +56,7 @@ phoenix-1, 07-tendermint-211, connection-167, channel-146, transfer, irishub-1, 
 phoenix-1, 07-tendermint-213, connection-168, channel-147, transfer, kava_2222-10, 07-tendermint-73, connection-118, channel-89, transfer
 phoenix-1, 07-tendermint-215, connection-169, channel-150, transfer, akashnet-2, 07-tendermint-129, connection-104, channel-68, transfer
 phoenix-1, 07-tendermint-216, connection-170, channel-151, transfer, noble-1, 07-tendermint-14, connection-23, channel-9, transfer
-phoenix-1, 07-tendermint-221, connection-174, channel-152, transfer, gravity-bridge-3, 07-tendermint-392, connection-370, channel-130, transfer
+phoenix-1, 07-tendermint-221, connection-174, channel-152, transfer, , 07-tendermint-392, connection-370, channel-130, transfer
 phoenix-1, 07-tendermint-223, connection-176, channel-153, transfer, regen-1, 07-tendermint-161, connection-138, channel-135, transfer
 phoenix-1, 07-tendermint-224, connection-177, channel-154, transfer, sommelier-3, 07-tendermint-48, connection-50, channel-32, transfer
 phoenix-1, 07-tendermint-226, connection-180, channel-158, transfer, pacific-1, 07-tendermint-10, connection-4, channel-3, transfer
@@ -166,6 +165,10 @@ phoenix-1, 07-tendermint-3, connection-6, channel-32, wasm.terra1e0mrzy8077druuu
 phoenix-1, 07-tendermint-75, connection-60, channel-40, wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au, carbon-testnet-42069, 07-tendermint-0, connection-0, channel-0, transfer
 phoenix-1, 07-tendermint-77, connection-61, channel-41, wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au, carbon-1, 07-tendermint-38, connection-20, channel-16, transfer
 phoenix-1, 07-tendermint-105, connection-93, channel-87, wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au, migaloo-1, 07-tendermint-0, connection-0, channel-2, transfer
+phoenix-1, 07-tendermint-343, connection-270, channel-237, wasm.terra1ed3qw4y4ca3lpj82ugg2jqsjr9czd0yyldcpp5n5yd7hu6udqafslz0nmg, stargaze-1, 07-tendermint-293, connection-223, channel-208, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv
+phoenix-1, 07-tendermint-344, connection-271, channel-238, wasm.terra1ed3qw4y4ca3lpj82ugg2jqsjr9czd0yyldcpp5n5yd7hu6udqafslz0nmg, stargaze-1, 07-tendermint-294, connection-226, channel-209, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv
+phoenix-1, 07-tendermint-350, connection-294, channel-239, wasm.terra1ed3qw4y4ca3lpj82ugg2jqsjr9czd0yyldcpp5n5yd7hu6udqafslz0nmg, juno-1, 07-tendermint-414, connection-409, channel-338, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt
+phoenix-1, 07-tendermint-351, connection-298, channel-240, wasm.terra1ed3qw4y4ca3lpj82ugg2jqsjr9czd0yyldcpp5n5yd7hu6udqafslz0nmg, juno-1, 07-tendermint-415, connection-410, channel-339, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt
 phoenix-1, 07-tendermint-105, connection-93, channel-149, wasm.terra1euhckzh8rs2sk5gc7z0t472fz7cmxt6wnwgl784t5npggwsmxemqq43uf7, migaloo-1, 07-tendermint-0, connection-0, channel-18, wasm.migaloo10l0ltapgnd746a6rgty5vkd33tex54ddvf2eyu3qas0050q7yehsuy3j5g
 phoenix-1, 07-tendermint-274, connection-192, channel-168, wasm.terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660, neutron-1, 07-tendermint-12, connection-9, channel-6, wasm.neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07
 phoenix-1, 07-tendermint-281, connection-196, channel-170, wasm.terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660, pacific-1, 07-tendermint-15, connection-9, channel-7, wasm.sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx
