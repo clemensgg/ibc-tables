@@ -12,6 +12,7 @@ kaiyo-1, 07-tendermint-150, connection-115, channel-110, transfer, wormchain, 07
 kaiyo-1, 07-tendermint-150, connection-115, channel-111, transfer, wormchain, 07-tendermint-11, connection-7, channel-7, transfer
 kaiyo-1, 07-tendermint-152, connection-116, channel-112, transfer, wormchain, 07-tendermint-12, connection-8, channel-8, transfer
 kaiyo-1, 07-tendermint-153, connection-117, channel-113, transfer, wormchain, 07-tendermint-13, connection-9, channel-9, transfer
+kaiyo-1, 07-tendermint-154, connection-118, channel-114, transfer, realionetwork_3301-1, 07-tendermint-5, connection-3, channel-3, transfer
 kaiyo-1, 07-tendermint-14, connection-9, channel-12, transfer, evmos_9001-2, 07-tendermint-51, connection-20, channel-16, transfer
 kaiyo-1, 07-tendermint-15, connection-10, channel-13, transfer, core-1, 07-tendermint-59, connection-55, channel-44, transfer
 kaiyo-1, 07-tendermint-16, connection-11, channel-14, transfer, laozi-mainnet, 07-tendermint-122, connection-105, channel-94, transfer
