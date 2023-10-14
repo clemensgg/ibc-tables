@@ -1,5 +1,5 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
-core-1, 07-tendermint-36, connection-30, channel-117, icacontroller-lscosmos_pstake_delegation_account, cosmoshub-4, 07-tendermint-391, connection-344, channel-658, icahost
+core-1, 07-tendermint-36, connection-30, channel-127, icacontroller-lscosmos_pstake_delegation_account, cosmoshub-4, 07-tendermint-391, connection-344, channel-688, icahost
 core-1, 07-tendermint-36, connection-30, channel-53, icacontroller-lscosmos_pstake_reward_account, cosmoshub-4, 07-tendermint-391, connection-344, channel-428, icahost
 core-1, 07-tendermint-0, connection-0, channel-0, transfer, cosmoshub-4, 07-tendermint-150, connection-196, channel-99, transfer
 core-1, 07-tendermint-1, connection-1, channel-1, transfer, cosmoshub-4, 07-tendermint-174, connection-213, channel-110, transfer
@@ -20,6 +20,7 @@ core-1, 07-tendermint-150, connection-187, channel-114, transfer, centauri-1, 07
 core-1, 07-tendermint-151, connection-188, channel-118, transfer, centauri-1, 07-tendermint-127, connection-49, channel-33, transfer
 core-1, 07-tendermint-152, connection-190, channel-119, transfer, phoenix-1, 07-tendermint-334, connection-250, channel-221, transfer
 core-1, 07-tendermint-25, connection-18, channel-12, transfer, crypto-org-chain-mainnet-1, 07-tendermint-62, connection-35, channel-18, transfer
+core-1, 07-tendermint-154, connection-192, channel-128, transfer, noble-1, 07-tendermint-37, connection-41, channel-22, transfer
 core-1, 07-tendermint-26, connection-19, channel-13, transfer, cosmoshub-4, 07-tendermint-367, connection-322, channel-173, transfer
 core-1, 07-tendermint-30, connection-24, channel-18, transfer, dig-testnet-1, 07-tendermint-32, connection-7, channel-4, transfer
 core-1, 07-tendermint-31, connection-25, channel-19, transfer, irishub-1, 07-tendermint-34, connection-25, channel-15, transfer
