@@ -113,6 +113,7 @@ phoenix-1, 07-tendermint-274, connection-192, channel-229, transfer, neutron-1, 
 phoenix-1, 07-tendermint-336, connection-259, channel-230, transfer, cheqd-mainnet-1, 07-tendermint-82, connection-60, channel-33, transfer
 phoenix-1, 07-tendermint-337, connection-260, channel-231, transfer, Oraichain, 07-tendermint-104, connection-81, channel-137, transfer
 phoenix-1, 07-tendermint-118, connection-265, channel-233, transfer, chihuahua-1, 07-tendermint-177, connection-118, channel-63, transfer
+phoenix-1, 07-tendermint-352, connection-300, channel-249, transfer, chihuahua-1, 07-tendermint-179, connection-121, channel-65, transfer
 phoenix-1, 07-tendermint-56, connection-47, channel-25, transfer, stride-1, 07-tendermint-15, connection-11, channel-13, transfer
 phoenix-1, 07-tendermint-4, connection-7, channel-3, transfer, secret-4, 07-tendermint-38, connection-20, channel-16, transfer
 phoenix-1, 07-tendermint-3, connection-6, channel-33, transfer, juno-1, 07-tendermint-185, connection-128, channel-154, wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn
