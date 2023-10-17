@@ -13,6 +13,8 @@ akashnet-2, 07-tendermint-44, connection-19, channel-11, transfer, irishub-1, 07
 akashnet-2, 07-tendermint-167, connection-149, channel-110, transfer, phoenix-1, 07-tendermint-327, connection-247, channel-218, transfer
 akashnet-2, 07-tendermint-168, connection-151, channel-111, transfer, quicksilver-2, 07-tendermint-82, connection-57, channel-111, transfer
 akashnet-2, 07-tendermint-169, connection-155, channel-112, transfer, centauri-1, 07-tendermint-128, connection-50, channel-34, transfer
+akashnet-2, 07-tendermint-170, connection-156, channel-113, transfer, sync-devnet-f0e470f1, 07-tendermint-2, connection-2, channel-2, transfer
+akashnet-2, 07-tendermint-171, connection-157, channel-114, transfer, sync-devnet-f666006f, 07-tendermint-2, connection-1, channel-1, transfer
 akashnet-2, 07-tendermint-45, connection-21, channel-12, transfer, sentinelhub-2, 07-tendermint-42, connection-27, channel-6, transfer
 akashnet-2, 07-tendermint-47, connection-22, channel-13, transfer, regen-1, 07-tendermint-20, connection-9, channel-7, transfer
 akashnet-2, 07-tendermint-48, connection-23, channel-14, transfer, crypto-org-chain-mainnet-1, 07-tendermint-65, connection-38, channel-21, transfer
