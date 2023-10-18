@@ -37,6 +37,7 @@ kava_2222-10, 07-tendermint-142, connection-175, channel-130, transfer, pacific-
 kava_2222-10, 07-tendermint-143, connection-176, channel-131, transfer, centauri-1, 07-tendermint-130, connection-52, channel-36, transfer
 kava_2222-10, 07-tendermint-146, connection-181, channel-132, transfer, pacific-1, 07-tendermint-38, connection-33, channel-18, transfer
 kava_2222-10, 07-tendermint-147, connection-182, channel-133, transfer, agoric-3, 07-tendermint-78, connection-73, channel-63, transfer
+kava_2222-10, 07-tendermint-148, connection-189, channel-134, transfer, core-1, 07-tendermint-156, connection-195, channel-129, transfer
 kava_2222-10, 07-tendermint-27, connection-17, channel-16, transfer, kava_2221-16000, 07-tendermint-11, connection-11, channel-3, transfer
 kava_2222-10, 07-tendermint-27, connection-18, channel-17, transfer, kava_2221-16000, 07-tendermint-11, connection-12, channel-4, transfer
 kava_2222-10, 07-tendermint-27, connection-19, channel-18, transfer, kava_2221-16000, 07-tendermint-11, connection-13, channel-5, transfer
