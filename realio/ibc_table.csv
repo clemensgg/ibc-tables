@@ -3,3 +3,4 @@ realionetwork_3301-1, 07-tendermint-0, connection-0, channel-0, transfer, osmosi
 realionetwork_3301-1, 07-tendermint-1, connection-1, channel-1, transfer, osmosis-1, 07-tendermint-2849, connection-2361, channel-1424, transfer
 realionetwork_3301-1, 07-tendermint-2, connection-2, channel-2, transfer, cosmoshub-4, 07-tendermint-1157, connection-879, channel-645, transfer
 realionetwork_3301-1, 07-tendermint-5, connection-3, channel-3, transfer, kaiyo-1, 07-tendermint-154, connection-118, channel-114, transfer
+realionetwork_3301-1, 07-tendermint-6, connection-4, channel-4, transfer, kaiyo-1, 07-tendermint-155, connection-119, channel-115, transfer
