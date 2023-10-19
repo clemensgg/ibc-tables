@@ -3,7 +3,7 @@ juno-1, 07-tendermint-262, connection-204, channel-124, icahost, local-test-4, 0
 juno-1, 07-tendermint-262, connection-204, channel-126, icahost, local-test-4, 07-tendermint-0, connection-0, channel-2, icacontroller-juno-1.FEE
 juno-1, 07-tendermint-262, connection-204, channel-134, icahost, local-test-4, 07-tendermint-0, connection-0, channel-7, icacontroller-juno-1.WITHDRAWAL
 juno-1, 07-tendermint-263, connection-205, channel-140, icahost, stride-1, 07-tendermint-31, connection-19, channel-28, icacontroller-juno-1.REDEMPTION
-juno-1, 07-tendermint-263, connection-205, channel-142, icahost, stride-1, 07-tendermint-31, connection-19, channel-27, icacontroller-juno-1.WITHDRAWAL
+juno-1, 07-tendermint-263, connection-205, channel-142, icahost, null, 07-tendermint-31, connection-19, channel-27, icacontroller-juno-1.WITHDRAWAL
 juno-1, 07-tendermint-263, connection-205, channel-143, icahost, stride-1, 07-tendermint-31, connection-19, channel-26, icacontroller-juno-1.FEE
 juno-1, 07-tendermint-320, connection-311, channel-220, icahost, testy-1, 07-tendermint-9, connection-1, channel-8, icacontroller-juno-1.withdrawal
 juno-1, 07-tendermint-320, connection-311, channel-222, icahost, testy-1, 07-tendermint-9, connection-1, channel-7, icacontroller-juno-1.deposit
@@ -175,6 +175,7 @@ juno-1, 07-tendermint-466, connection-456, channel-375, transfer, weave-beta-v5,
 juno-1, 07-tendermint-467, connection-457, channel-376, transfer, weave-beta-v5, 07-tendermint-2, connection-1, channel-1, transfer
 juno-1, 07-tendermint-468, connection-458, channel-377, transfer, weave-beta-v5, 07-tendermint-3, connection-2, channel-2, transfer
 juno-1, 07-tendermint-103, connection-64, channel-38, transfer, comdex-1, 07-tendermint-31, connection-20, channel-21, transfer
+juno-1, 07-tendermint-481, connection-484, channel-383, transfer, agoric-3, 07-tendermint-79, connection-74, channel-64, transfer
 juno-1, 07-tendermint-103, connection-64, channel-39, transfer, comdex-1, 07-tendermint-31, connection-20, channel-19, transfer
 juno-1, 07-tendermint-104, connection-65, channel-40, transfer, comdex-1, 07-tendermint-32, connection-21, channel-20, transfer
 juno-1, 07-tendermint-105, connection-66, channel-41, transfer, gravity-bridge-3, 07-tendermint-17, connection-17, channel-14, transfer
