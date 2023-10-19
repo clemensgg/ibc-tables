@@ -111,6 +111,7 @@ stargaze-1, 07-tendermint-310, connection-242, channel-224, transfer, sync-devne
 stargaze-1, 07-tendermint-311, connection-243, channel-225, transfer, ollo-testnet-2, 07-tendermint-0, connection-0, channel-0, transfer
 stargaze-1, 07-tendermint-312, connection-244, channel-226, transfer, sync-devnet-f666006f, 07-tendermint-3, connection-2, channel-2, transfer
 stargaze-1, 07-tendermint-313, connection-245, channel-227, transfer, ollo-testnet-2, 07-tendermint-0, connection-0, channel-0, transfer
+stargaze-1, 07-tendermint-314, connection-246, channel-228, transfer, ollo-testnet-2, 07-tendermint-0, connection-0, channel-0, transfer
 stargaze-1, 07-tendermint-89, connection-61, channel-23, transfer, osmosis-1, 07-tendermint-1797, connection-1402, channel-180, transfer
 stargaze-1, 07-tendermint-90, connection-62, channel-24, transfer, osmosis-1, 07-tendermint-1799, connection-1404, channel-182, transfer
 stargaze-1, 07-tendermint-106, connection-71, channel-25, transfer, osmosis-1, 07-tendermint-1811, connection-1416, channel-191, transfer
@@ -168,3 +169,4 @@ stargaze-1, 07-tendermint-295, connection-228, channel-210, wasm.stars1r0a8ygvnj
 stargaze-1, 07-tendermint-296, connection-229, channel-211, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv, juno-1, 07-tendermint-406, connection-399, channel-334, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt
 stargaze-1, 07-tendermint-297, connection-230, channel-212, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv, juno-1, 07-tendermint-407, connection-400, channel-332, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt
 stargaze-1, 07-tendermint-298, connection-231, channel-213, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv, juno-1, 07-tendermint-408, connection-402, channel-333, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt
+stargaze-1, 07-tendermint-13, connection-11, channel-229, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv, juno-1, 07-tendermint-44, connection-30, channel-385, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt
