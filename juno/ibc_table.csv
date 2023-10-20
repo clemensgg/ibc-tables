@@ -1,9 +1,10 @@
 CHAIN_ID, CLIENT, CONNECTION, CHANNEL, PORT, COUNTERPARTY_CHAIN, COUNTERPARTY_CLIENT, COUNTERPARTY_CONNECTION, COUNTERPARTY_CHANNEL, COUNTERPARTY_PORT
+juno-1, 07-tendermint-0, connection-0, channel-388, icacontroller-juno1w09u7crpahyk5w6y9x9ed3kv8hg0d23ray993fp9ct6a84ddp84sq4ya4p, osmosis-1, 07-tendermint-1457, connection-1142, channel-6269, icahost
 juno-1, 07-tendermint-262, connection-204, channel-124, icahost, local-test-4, 07-tendermint-0, connection-0, channel-4, icacontroller-juno-1.REDEMPTION
 juno-1, 07-tendermint-262, connection-204, channel-126, icahost, local-test-4, 07-tendermint-0, connection-0, channel-2, icacontroller-juno-1.FEE
 juno-1, 07-tendermint-262, connection-204, channel-134, icahost, local-test-4, 07-tendermint-0, connection-0, channel-7, icacontroller-juno-1.WITHDRAWAL
 juno-1, 07-tendermint-263, connection-205, channel-140, icahost, stride-1, 07-tendermint-31, connection-19, channel-28, icacontroller-juno-1.REDEMPTION
-juno-1, 07-tendermint-263, connection-205, channel-142, icahost, null, 07-tendermint-31, connection-19, channel-27, icacontroller-juno-1.WITHDRAWAL
+juno-1, 07-tendermint-263, connection-205, channel-142, icahost, stride-1, 07-tendermint-31, connection-19, channel-27, icacontroller-juno-1.WITHDRAWAL
 juno-1, 07-tendermint-263, connection-205, channel-143, icahost, stride-1, 07-tendermint-31, connection-19, channel-26, icacontroller-juno-1.FEE
 juno-1, 07-tendermint-320, connection-311, channel-220, icahost, testy-1, 07-tendermint-9, connection-1, channel-8, icacontroller-juno-1.withdrawal
 juno-1, 07-tendermint-320, connection-311, channel-222, icahost, testy-1, 07-tendermint-9, connection-1, channel-7, icacontroller-juno-1.deposit
@@ -248,6 +249,7 @@ juno-1, 07-tendermint-404, connection-397, channel-335, wasm.juno1kc0lcysppht7s8
 juno-1, 07-tendermint-405, connection-398, channel-336, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt, stargaze-1, 07-tendermint-295, connection-228, channel-210, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv
 juno-1, 07-tendermint-414, connection-409, channel-338, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt, phoenix-1, 07-tendermint-350, connection-294, channel-239, wasm.terra1ed3qw4y4ca3lpj82ugg2jqsjr9czd0yyldcpp5n5yd7hu6udqafslz0nmg
 juno-1, 07-tendermint-415, connection-410, channel-339, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt, phoenix-1, 07-tendermint-351, connection-298, channel-240, wasm.terra1ed3qw4y4ca3lpj82ugg2jqsjr9czd0yyldcpp5n5yd7hu6udqafslz0nmg
+juno-1, 07-tendermint-44, connection-30, channel-385, wasm.juno1kc0lcysppht7s8xl263q208u2t7epw5h3zvhyscsxjlz560yysmsrd8ydt, stargaze-1, 07-tendermint-13, connection-11, channel-229, wasm.stars1r0a8ygvnjfaegy4n5z9325e0ew9uy2s7rn4vt7qf4ltv49fj4tnsk6pvtv
 juno-1, 07-tendermint-0, connection-0, channel-84, wasm.juno1lfqqr07uw6k30axhkxg4lkmrat87hh972swakxz276n2leu9vqusw2ce5a, osmosis-1, 07-tendermint-1457, connection-1142, channel-241, transfer
 juno-1, 07-tendermint-205, connection-144, channel-91, wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg, kaiyo-1, 07-tendermint-27, connection-20, channel-24, transfer
 juno-1, 07-tendermint-217, connection-153, channel-97, wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg, kaiyo-1, 07-tendermint-35, connection-30, channel-31, transfer
