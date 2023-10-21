@@ -20,6 +20,7 @@ noble-1, 07-tendermint-40, connection-44, channel-25, transfer, sync-devnet-f0e4
 noble-1, 07-tendermint-41, connection-45, channel-26, transfer, sync-devnet-f0e470f1, 07-tendermint-6, connection-7, channel-7, transfer
 noble-1, 07-tendermint-42, connection-46, channel-27, transfer, sync-devnet-f0e470f1, 07-tendermint-7, connection-8, channel-8, transfer
 noble-1, 07-tendermint-43, connection-47, channel-28, transfer, sync-devnet-f666006f, 07-tendermint-1, connection-0, channel-0, transfer
+noble-1, 07-tendermint-45, connection-53, channel-29, transfer, pacific-1, 07-tendermint-40, connection-39, channel-41, transfer
 noble-1, 07-tendermint-3, connection-8, channel-3, transfer, juno-1, 07-tendermint-334, connection-322, channel-224, transfer
 noble-1, 07-tendermint-4, connection-12, channel-4, transfer, cosmoshub-4, 07-tendermint-1116, connection-790, channel-536, transfer
 noble-1, 07-tendermint-5, connection-15, channel-5, transfer, grand-1, 07-tendermint-1, connection-1, channel-1, transfer
